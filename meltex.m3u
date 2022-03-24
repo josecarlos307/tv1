@@ -2215,8 +2215,6 @@ https://stmv.panel.mivideo.pro/unidoalcielo/unidoalcielo/playlist.m3u8?PlaylistM
 #EXTINF:-1 group-title="CHILE" tvg-id="854" tvg-name="TV Quinta Region" tvg-logo="https://www.m3u.cl/logo/854_TV_Quinta_Region.png", TV Quinta Region  | CL
 https://srv1.zcast.com.br/daniel2525/daniel2525/playlist.m3u8?PlaylistM3UCL
 
-
-
 #EXTINF:-1 group-title="COLOMBIA" tvg-id="766" tvg-name="HD Latam" tvg-logo="https://www.m3u.cl/logo/766_HD_Latam.jpg", HD Latam * | CO
 https://www.streamingmediatv.live:19360/hdlatam/hdlatam.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="COLOMBIA" tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM * | UY
@@ -2305,8 +2303,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 https://byecableiptv.com/telepasto/Telepasto.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="COLOMBIA" tvg-id="806" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png", HispanTV  | IR
 https://live1.presstv.com/live/hispan.m3u8?PlaylistM3UCL
-
-
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png", Urban TV * | ES
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
@@ -2415,8 +2411,6 @@ https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="ESPAÑA" tvg-id="198" tvg-name="TBN España" tvg-logo="https://www.m3u.cl/logo/198_TBN_Espana.png", TBN España  | ES
 https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt.stream_all/playlist.m3u8?PlaylistM3UCL
 
-
-
 #EXTINF:-1 group-title="PERU" tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png", Best Cable Sports  | PE
 https://live.siete.us:1991/bestcablesports/bestcablesports/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="PERU" tvg-id="496" tvg-name="Canal IPE" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png", Canal IPE  | PE
@@ -2486,8 +2480,6 @@ https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?Playl
 #EXTINF:-1 group-title="PERU" tvg-id="688" tvg-name="Vision TV" tvg-logo="https://www.m3u.cl/logo/688_Vision_TV.png", Vision TV  | PE
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
 
-
-
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://www.m3u.cl/logo/143_Canal_Once_Del_Zulia.png", Canal Once Del Zulia  | VE
 http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="144" tvg-name="Catatumbo TV" tvg-logo="https://www.m3u.cl/logo/144_Catatumbo_TV.png", Catatumbo TV  | VE
@@ -2548,7 +2540,6 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 https://live1.presstv.com/live/hispan.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="855" tvg-name="VenTV Premium" tvg-logo="https://www.m3u.cl/logo/855_VenTV_Premium.png", VenTV Premium  | PA
 https://5d79ae45bc63b.streamlock.net/natanaeltv/natanaeltv/playlist.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-name="Hechos Ecuador" tvg-country="EC" tvg-language="Spanish" tvg-logo="8YPXrcX.png" group-title="ECUADOR",Hechos Ecuador
 http://37.187.7.106/hechostv/live.m3u8
@@ -2675,8 +2666,6 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="ZTV.do" tvg-name="ZTV" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://z101digital.com/wp-content/themes/z-101-digital/imgs/podcasts/audios-destacados.jpg" group-title="REPUBLICA DOMINICANA",ZTV
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 
-
-
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 Stereo" tvg-country="CR" tvg-language="Spanish" tvg-logo="" group-title="COSTA RICA",88 Stereo (486p)
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="AnexionTV.cr" tvg-name="Anexion TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PrOYyU1.png" group-title="COSTA RICA",Anexion TV (360p)
@@ -2741,8 +2730,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/master.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-name="WOW TV" tvg-country="SV" tvg-language="Spanish" tvg-logo="" group-title="EL SALVADOR",WOW TV (720p)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="CCIChannel.hn" tvg-name="CCI Channel" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wHQOLAL.png" group-title="HONDURAS",CCI Channel (720p)
 http://stream.innovandote.com:1935/cci/cci/playlist.m3u8
 #EXTINF:-1 tvg-id="CCIChannel.hn" tvg-name="CCI Channel" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://www.ccichannel.tv/wp-content/uploads/2018/01/CCICHANNELlogo.png" group-title="HONDURAS",CCI Channel (720p)
@@ -2785,3 +2772,1340 @@ https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/60566
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVGLOBOHD.hn" tvg-name="TV GLOBO HD" tvg-country="HN" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-ElEaeSovA9c/T8CRBqmTasI/AAAAAAAADVc/WTTU--RlcwU/s1600/globo_tv_honduras_telecatracha_television_honduras_noticias.jpg" group-title="HONDURAS",TV GLOBO HD
 https://panel.dattalive.com/8122/8122/chunklist_w472965034.m3u8
+
+
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://media.filmelier.com/images/filmes/cartaz/premiere-annee10922.jpeg",Primer año (2018)
+https://content.jwplatform.com/videos/4IcVLAON-f5lkNOK9.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/HG82gyfX/poster.jpg?width=720",Titanic (1997)
+https://cdn.jwplayer.com/videos/HG82gyfX-6XqMq52b.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/HUQB3sIe/poster.jpg?width=720",Netflix - Titanic (1997)
+https://content.jwplatform.com/videos/HUQB3sIe-42ikis0c.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/o2E37V3E/poster.jpg?width=720",Netflix - Misterios Del Titanic (2003)
+https://content.jwplatform.com/videos/o2E37V3E-THiuP2Ag.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/kefS5lYS/poster.jpg?width=720",Un Paseo Para Recordar (2002)
+https://cdn.jwplayer.com/videos/kefS5lYS-6XqMq52b.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/4K94GdUA/poster.jpg?width=720",Bola de Fuego (2009)
+https://content.jwplatform.com/videos/SvheuftJ-0y8dNCDp.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/KIye4ziR/poster.jpg?width=720",Anaconda 2 (2004)
+https://cdn.jwplayer.com/videos/KIye4ziR-A8bbuR7f.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/EgN1x209/poster.jpg?width=720",La Momia Regresa (2001)
+https://cdn.jwplayer.com/videos/EgN1x209-A8bbuR7f.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/9usIVQjV/poster.jpg?width=720",La Caída Del Halcón Negro (2001)
+https://content.jwplatform.com/videos/9usIVQjV-tCazV2g1.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/YJfbeGTY/poster.jpg?width=720",Perfume - Historia De Un Asesino (2006) )
+https://cdn.jwplayer.com/videos/dpB18kwh-4og03H3s.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://static.wikia.nocookie.net/cine/images/9/95/Spirit.jpg",Spirit El Corcel Indomable (2002)
+https://cdn.jwplayer.com/videos/ir8iKMME-4og03H3s.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/lcknon3g-720.jpg",Troya (2004)
+https://cdn.jwplayer.com/videos/h5wXjCyq-4og03H3s.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/q98dttar-1280.jpg",Netflix - Troya (2004)
+https://content.jwplatform.com/videos/RuDUr9p2-cXeGjWD9.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/NoQJO55H-720.jpg",Noticias del gran mundo (2020)
+https://cdn.jwplayer.com/videos/bZd7YjF8-4og03H3s.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/qcvwUwWa-720.jpg",Chiquito pero peligroso (2006)
+https://content.jwplatform.com/videos/hqFAFp6k-SFZgM3OG.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/3LUdIYrn/poster.jpg?width=720",Cuestión De Tiempo (2013)
+https://content.jwplatform.com/videos/3LUdIYrn-SFZgM3OG.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/ndzRpXLB/poster.jpg?width=720",Grandes Héroes (2014)
+https://content.jwplatform.com/videos/ndzRpXLB-fLxnl7pD.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/VEi8NgGh/poster.jpg?width=720",El Señor De La Guerra (2005)
+https://content.jwplatform.com/videos/VEi8NgGh-fLxnl7pD.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/wvsta2Kh/poster.jpg?width=720",El Diario De Noa (2004)
+https://content.jwplatform.com/videos/1xFr5tdm-fKvPRnYE.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/XdNFJIBG/poster.jpg?width=720",Hércules (1997)
+https://content.jwplatform.com/videos/XdNFJIBG-fLxnl7pD.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/chNHvmdw/poster.jpg?width=720",Forrest Gump (1994)
+https://content.jwplatform.com/videos/chNHvmdw-fLxnl7pD.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/KWoEa9Ti/poster.jpg?width=720",Scary Movie 2 (2001)
+https://content.jwplatform.com/videos/KWoEa9Ti-fLxnl7pD.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/SCxos3SX/poster.jpg?width=720",UP (2009)
+https://content.jwplatform.com/videos/SCxos3SX-I4tvDP0t.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/0y968num/poster.jpg?width=720",Netflix -El niño que domó el viento (2019)
+https://content.jwplatform.com/videos/0y968num-cXeGjWD9.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/0rcpyeeC/poster.jpg?width=720",Netflix - El contador (2016)
+https://content.jwplatform.com/videos/0rcpyeeC-Hw8caOUY.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/ypnmaZJI/poster.jpg?width=720",21 Black Jack (2008)
+https://content.jwplatform.com/videos/ypnmaZJI-Hw8caOUY.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6vamoqwi-720.jpg",Netflix - Proyecto X (2012)
+https://content.jwplatform.com/videos/wvcMhVmE-Hw8caOUY.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6pr70ex3-720.jpg",Netflix - El Duelo (2016)
+https://content.jwplatform.com/videos/845BfTcd-Hw8caOUY.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/5ECkiwIl/poster.jpg?width=720",Netflix - Transformadores 1
+https://content.jwplatform.com/videos/5ECkiwIl-j5xkbKxc.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/rKmtnZyJ/poster.jpg?width=720",Netflix - Transformadores 2
+https://content.jwplatform.com/videos/rKmtnZyJ-tMmMh7nG.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/pQNAYvPj/poster.jpg?width=720",Netflix - Transformadores 3
+https://content.jwplatform.com/videos/pQNAYvPj-Ug0lTWZH.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/JYwPkB6n/poster.jpg?width=720",Netflix - Yo, Robot (2004)
+https://content.jwplatform.com/videos/JYwPkB6n-tMmMh7nG.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/fdwZYCLC/poster.jpg?width=720",Wall-e (2008)
+https://content.jwplatform.com/videos/fdwZYCLC-x3d9IHvW.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/MfIx47lt/poster.jpg?width=720",Netflix - La Firma Sin Salida (1993) )
+https://content.jwplatform.com/videos/MfIx47lt-x3d9IHvW.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/CH9QRKbd/poster.jpg?width=720",Netflix - Sr. Y Sra. herrero (2005)
+https://content.jwplatform.com/videos/CH9QRKbd-x3d9IHvW.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/cfR3HmOO/poster.jpg?width=720",Lo Que El Agua Se Llevo (2006) )
+https://content.jwplatform.com/videos/cfR3HmOO-THiuP2Ag.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/vm4DbZPQ/poster.jpg?width=720",Netflix - La Batalla Olvidada (2020)
+https://content.jwplatform.com/videos/vm4DbZPQ-THiuP2Ag.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/s5KZm7EO/poster.jpg?width=720",Tropa De éLite 1 (2007)
+https://content.jwplatform.com/videos/0pGJcIrM-EMhKtOSD.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/NrCho3V8/poster.jpg?width=720",Tropa De éLite 2 (2010)
+https://content.jwplatform.com/videos/yY9noMpE-EMhKtOSD.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/WPoxidJu/poster.jpg?width=720",La Tormenta Perfecta (2000)
+https://content.jwplatform.com/videos/WPoxidJu-EMhKtOSD.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/da5kxY4t/poster.jpg?width=720",Zathura, Una Aventura Espacial (2005)
+https://content.jwplatform.com/videos/da5kxY4t-suoentd1.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/YqkDEnAb/poster.jpg?width=720",¡Sí, Señor! (2008)
+https://content.jwplatform.com/videos/YqkDEnAb-j90WX2ie.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/7n2y4Uex/poster.jpg?width=720",Netflix - Descuida, Yo Te Cuido ( 2020)
+https://content.jwplatform.com/videos/7n2y4Uex-j90WX2ie.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/jpaugSDb/poster.jpg?width=720",Avatar (2009)
+https://content.jwplatform.com/videos/jpaugSDb-j90WX2ie.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/0G2uwVnm/poster.jpg?width=720",Warcraft, El Primer Encuentro De Dos Mundos (2016)
+https://content.jwplatform.com/videos/0G2uwVnm-Ug0lTWZH.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/VBp30h86/poster.jpg?width=720",Dunkerque (2017)
+https://content.jwplatform.com/videos/VBp30h86-N4qG1l5V.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/ezFvnRQD/poster.jpg?width=720",Chalard Games Goeng (2017)
+https://content.jwplatform.com/videos/ezFvnRQD-l1KBJRgW.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/sykrqD4w/poster.jpg?width=720",El Dia De La Independencia 1, ( 1996)
+https://content.jwplatform.com/videos/sykrqD4w-l1KBJRgW.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/zdCKIHPU/poster.jpg?width=720",El Dia De La Independencia 2, Contraataque (2016)
+https://content.jwplatform.com/videos/zdCKIHPU-l1KBJRgW.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/T9l8nvXA/poster.jpg?width=640",El Efecto Mariposa (2004)
+https://content.jwplatform.com/videos/T9l8nvXA-l1KBJRgW.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/YhAEndMC/poster.jpg?width=720",Megamente (2010)
+https://content.jwplatform.com/videos/YhAEndMC-qIzvUilQ.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/Up95l49F/poster.jpg?width=720",Soy Leyenda (2007)
+https://content.jwplatform.com/videos/Up95l49F-qIzvUilQ.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/xz58ji8I/poster.jpg?width=720",El Club De La Pelea (1999)
+https://content.jwplatform.com/videos/xz58ji8I-cYK6OWDB.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/LZsPBacF/poster.jpg?width=720",Un Golpe De Altura (2011)
+https://content.jwplatform.com/videos/LZsPBacF-cYK6OWDB.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/nDZNfqR8/poster.jpg?width=720",Finch (2021)
+https://content.jwplatform.com/videos/nDZNfqR8-fIuXBjpS.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/RjFEPtC9/poster.jpg?width=720",El Precio De La Codicia (2011)
+https://content.jwplatform.com/videos/IdKvAeRu-T9vIUANL.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/p9O19DMJ/poster.jpg?width=720",El pianista (2002)
+https://content.jwplatform.com/videos/p9O19DMJ-0y8dNCDp.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/msvxRLvx/poster.jpg?width=720",Distrito 13 (2004)
+https://content.jwplatform.com/videos/msvxRLvx-FKtSO7O3.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/KYHkxPE7/poster.jpg?width=720",Distrito 13 Ultimátum (2009)
+https://content.jwplatform.com/videos/KYHkxPE7-FKtSO7O3.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/8TIBpTK6/poster.jpg?width=720",La fortaleza prohibida (2014)
+https://content.jwplatform.com/videos/8TIBpTK6-FKtSO7O3.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/nTLa65rp/poster.jpg?width=720",Animales fantasticos y donde encontrarlos (2016)
+https://content.jwplatform.com/videos/nTLa65rp-ZLlOiAMk.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/EBcG1lET/poster.jpg?width=720",Mississippi En Llamas (1988)
+https://content.jwplatform.com/videos/EBcG1lET-HCb5UliP.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/nU9zWYHw/poster.jpg?width=720",Dos Contra El Hielo (2022)
+https://content.jwplatform.com/videos/nU9zWYHw-HCb5UliP.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/3qaTzQpB/poster.jpg?width=720",Michael Clayton (2007)
+https://content.jwplatform.com/videos/3qaTzQpB-HCb5UliP.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/ChboFKML/poster.jpg?width=720",Milagro En La Caverna (2019)
+https://content.jwplatform.com/videos/ChboFKML-fKvPRnYE.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/zFQVncnu/poster.jpg?width=720",La úLtima Pelea (2011)
+https://content.jwplatform.com/videos/zFQVncnu-fKvPRnYE.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/FOQryG5o/poster.jpg?width=720",Pandillas De Nueva York (2002)
+https://cdn.jwplayer.com/videos/FOQryG5o-fKvPRnYE.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/qAFSj60N/poster.jpg?width=720",El Aviador (2004)
+https://content.jwplatform.com/videos/qAFSj60N-fKvPRnYE.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/YyEbpfZG/poster.jpg?width=720",El Hombre De La Mascara De Hierro ( 1998)
+https://content.jwplatform.com/videos/YyEbpfZG-fKvPRnYE.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/e5UGrKyO/poster.jpg?width=720",Rey De Los Ladrones (2018)
+https://content.jwplatform.com/videos/e5UGrKyO-fKvPRnYE.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/9wqolVIg/poster.jpg?width=720",Violento Y Furioso (2019)
+https://content.jwplatform.com/videos/9wqolVIg-fKvPRnYE.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/y42yIqqU/poster.jpg?width=720",Juan. P. (2002)
+https://content.jwplatform.com/videos/y42yIqqU-8wAnxsUG.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/4QbzNT2v/poster.jpg?width=720",Cuatro hermanos (2005)
+https://content.jwplatform.com/videos/4QbzNT2v-8wAnxsUG.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/b3kH3Nwk/poster.jpg?width=720",El Jefe de la Mafia Gotti (2018) )
+https://content.jwplatform.com/videos/b3kH3Nwk-ZMBfsUO8.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/fQNVxbTQ/poster.jpg?width=720",La batalla de Kamdesh (2020)
+https://content.jwplatform.com/videos/fQNVxbTQ-ZMBfsUO8.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/cLok27OH/poster.jpg?width=720",El útimo Regalo (2006)
+https://content.jwplatform.com/videos/cLok27OH-JTDZ0KCr.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/wbEcUjsI/poster.jpg?width=720",Colateral (2004)
+https://content.jwplatform.com/videos/wbEcUjsI-JTDZ0KCr.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/3V1cKv16/poster.jpg?width=720",El Origen Del Planeta De Los Simios ( 2011)
+https://content.jwplatform.com/videos/3V1cKv16-0M7TXjS4.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/YlqUavXO/poster.jpg?width=720",El Planeta De Los Simios, Confrontación ( 2014)
+https://content.jwplatform.com/videos/YlqUavXO-JTDZ0KCr.mp4
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/9XEgWDvt/poster.jpg?width=720",La Guerra Del Planeta De Los Simios ( 2017)
+https://content.jwplatform.com/videos/9XEgWDvt-0M7TXjS4.mp4
+
+#EXTINF:-0 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/4QbzT2v/poster.jpg?width=720",Sin titulo
+https://jwp.io/s/iQ7LZLZq
+############################################## ############################################## ##########################################
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/rnRs48xM/poster.jpg?width=720",Trajes T1 - Capítulo 1
+https://content.jwplatform.com/videos/rnRs48xM-pKPjdof9.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/AWtGBF7N/poster.jpg?width=720",Trajes T1 - Capítulo 2
+https://content.jwplatform.com/videos/AWtGBF7N-pKPjdof9.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/dVYn5j57/poster.jpg?width=720",Trajes T1 - Capítulo 3
+https://content.jwplatform.com/videos/dVYn5j57-pKPjdof9.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/28QaIFL2/poster.jpg?width=720",Trajes T1 - Capítulo 4
+https://content.jwplatform.com/videos/28QaIFL2-pKPjdof9.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/37Y2XTca/poster.jpg?width=720",Trajes T1 - Capítulo 5
+https://content.jwplatform.com/videos/37Y2XTca-pKPjdof9.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/XvtK57dh/poster.jpg?width=720",Trajes T1 - Capítulo 6
+https://content.jwplatform.com/videos/XvtK57dh-pKPjdof9.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/SI3G1Ffd/poster.jpg?width=720",Trajes T1 - Capítulo 7
+https://content.jwplatform.com/videos/SI3G1Ffd-pKPjdof9.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/ZSaG3TwO/poster.jpg?width=720",Trajes T1 - Capítulo 8
+https://content.jwplatform.com/videos/ZSaG3TwO-pKPjdof9.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/EREmEnnh/poster.jpg?width=720",Trajes T1 - Capítulo 9
+https://content.jwplatform.com/videos/EREmEnnh-pKPjdof9.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/W9lbYxc1/poster.jpg?width=720",Trajes T1 - Capítulo 10
+https://content.jwplatform.com/videos/W9lbYxc1-pKPjdof9.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/iITUQcpn/poster.jpg?width=720",Trajes T1 - Capítulo 11
+https://content.jwplatform.com/videos/ezt51RH0-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/iITUQcpn/poster.jpg?width=720",Trajes T1 - Capítulo 12
+https://content.jwplatform.com/videos/ezt51RH0-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/1mMhpQkf/poster.jpg?width=720",Trajes T2 - Capítulo 1
+https://content.jwplatform.com/videos/1mMhpQkf-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/TpI1cH2t/poster.jpg?width=720",Trajes T2 - Capítulo 2
+https://content.jwplatform.com/videos/TpI1cH2t-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/siYKJVqa/poster.jpg?width=720",Trajes T2 - Capítulo 3
+https://content.jwplatform.com/videos/siYKJVqa-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/MXO59mXX/poster.jpg?width=720",Trajes T2 - Capítulo 4
+https://content.jwplatform.com/videos/MXO59mXX-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/YiflmKKx/poster.jpg?width=720",Trajes T2 - Capítulo 5
+https://content.jwplatform.com/videos/YiflmKKx-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/drpMmZaY/poster.jpg?width=720",Trajes T2 - Capítulo 6
+https://content.jwplatform.com/videos/drpMmZaY-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/TXvfuO5j/poster.jpg?width=720",Trajes T2 - Capítulo 7
+https://content.jwplatform.com/videos/TXvfuO5j-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/OTv6Eun1/poster.jpg?width=720",Trajes T2 - Capítulo 8
+https://content.jwplatform.com/videos/OTv6Eun1-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/MZskiVm4/poster.jpg?width=720",Trajes T2 - Capítulo 9
+https://content.jwplatform.com/videos/MZskiVm4-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/5sVKOE77/poster.jpg?width=720",Trajes T2 - Capítulo 10
+https://content.jwplatform.com/videos/5sVKOE77-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/Eo9kBdjS/poster.jpg?width=720",Trajes T2 - Capítulo 11
+https://content.jwplatform.com/videos/Eo9kBdjS-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/aQYHFlmW/poster.jpg?width=720",Trajes T2 - Capítulo 12
+https://content.jwplatform.com/videos/aQYHFlmW-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/hb1q0GLE/poster.jpg?width=720",Trajes T2 - Capítulo 13
+https://content.jwplatform.com/videos/hb1q0GLE-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/kouBEHyi/poster.jpg?width=720",Trajes T2 - Capítulo 14
+https://content.jwplatform.com/videos/kouBEHyi-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/XvmveMC4/poster.jpg?width=720",Trajes T2 - Capítulo 15
+https://content.jwplatform.com/videos/XvmveMC4-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/SDDi1XMr/poster.jpg?width=720",Trajes T2 - Capítulo 16
+https://content.jwplatform.com/videos/ZjIxCAJ0-UR1TOhpI.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/ZjIxCAJ0/poster.jpg?width=720",Trajes T3 - Capítulo 1
+https://content.jwplatform.com/videos/SDDi1XMr-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/qLu7Ytnk/poster.jpg?width=720",Trajes T3 - Capítulo 2
+https://content.jwplatform.com/videos/qLu7Ytnk-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/5k3GteFU/poster.jpg?width=720",Trajes T3 - Capítulo 3
+https://content.jwplatform.com/videos/5k3GteFU-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/W3CEcBuU/poster.jpg?width=720",Trajes T3 - Capítulo 4
+https://content.jwplatform.com/videos/W3CEcBuU-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/v09093Yo/poster.jpg?width=720",Trajes T3 - Capítulo 5
+https://content.jwplatform.com/videos/v09093Yo-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/xkDjN8nq/poster.jpg?width=720",Trajes T3 - Capítulo 6
+https://content.jwplatform.com/videos/xkDjN8nq-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/PK8td1uC/poster.jpg?width=720",Trajes T3 - Capítulo 7
+https://content.jwplatform.com/videos/PK8td1uC-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/JEpMRUo1/poster.jpg?width=720",Trajes T3 - Capítulo 8
+https://content.jwplatform.com/videos/JEpMRUo1-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/cQV6p58D/poster.jpg?width=720",Trajes T3 - Capítulo 9
+https://content.jwplatform.com/videos/cQV6p58D-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/HspsW0vK/poster.jpg?width=720",Trajes T3 - Capítulo 10
+https://content.jwplatform.com/videos/HspsW0vK-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/UBqBzB5m/poster.jpg?width=720",Trajes T3 - Capítulo 11
+https://content.jwplatform.com/videos/UBqBzB5m-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/wK3gQz9C/poster.jpg?width=720",Trajes T3 - Capítulo 12
+https://content.jwplatform.com/videos/wK3gQz9C-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/G0z68Vtd/poster.jpg?width=720",Trajes T3 - Capítulo 13
+https://content.jwplatform.com/videos/G0z68Vtd-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/4cN6SzKt/poster.jpg?width=720",Trajes T3 - Capítulo 14
+https://content.jwplatform.com/videos/4cN6SzKt-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/XkuGccoB/poster.jpg?width=720",Trajes T3 - Capítulo 15
+https://content.jwplatform.com/videos/XkuGccoB-CsHRswcB.mp4
+#EXTINF:0 group-title="Trajes" tvg-logo="https://content.jwplatform.com/v2/media/1otDM4ZQ/poster.jpg?width=720",Trajes T3 - Capítulo 16
+https://content.jwplatform.com/videos/1otDM4ZQ-CsHRswcB.mp4
+############################################## ############################################## ##########################################
+#EXTINF:0 group-title="Juego de tronos" tvg-logo="poster.jpg?width=720",Juego de tronos T1 - Capitulo 1
+############################################## ############################################## ##########################################
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/4bYwTlf4/poster.jpg?width=720",Spartacus T1 - Capítulo 1
+https://content.jwplatform.com/videos/4bYwTlf4-P1YtkpGh.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/iPIQLVvQ/poster.jpg?width=720",Spartacus T1 - Capítulo 2
+https://content.jwplatform.com/videos/iPIQLVvQ-sEiGkaoJ.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/O9DHR8Qz/poster.jpg?width=720",Spartacus T1 - Capítulo 3
+https://content.jwplatform.com/videos/O9DHR8Qz-P1YtkpGh.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/bdsBOj8T/poster.jpg?width=720",Spartacus T1 - Capítulo 4
+https://content.jwplatform.com/videos/bdsBOj8T-IoA7CjDK.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/hDN2wS6d/poster.jpg?width=720",Spartacus T1 - Capítulo 5
+https://content.jwplatform.com/videos/hDN2wS6d-IoA7CjDK.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/ULIjsFVM/poster.jpg?width=720",Spartacus T1 - Capítulo 6
+https://content.jwplatform.com/videos/ULIjsFVM-IoA7CjDK.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/dT5LIvQU/poster.jpg?width=720",Spartacus T1 - Capítulo 7
+https://content.jwplatform.com/videos/dT5LIvQU-sEiGkaoJ.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/0z26Ywye/poster.jpg?width=720",Spartacus T1 - Capítulo 8
+https://content.jwplatform.com/videos/0z26Ywye-P1YtkpGh.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/Mq17Lm4Z/poster.jpg?width=720",Spartacus T1 - Capítulo 9
+https://content.jwplatform.com/videos/Mq17Lm4Z-P1YtkpGh.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/nOJsrguw/poster.jpg?width=720",Spartacus T1 - Capítulo 10
+https://content.jwplatform.com/videos/nOJsrguw-IoA7CjDK.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/0OkG2ygq/poster.jpg?width=720",Spartacus T1 - Capítulo 11
+https://content.jwplatform.com/videos/0OkG2ygq-sEiGkaoJ.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/uz7XiwtJ/poster.jpg?width=720",Spartacus T1 - Capítulo 12
+https://content.jwplatform.com/videos/uz7XiwtJ-sEiGkaoJ.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/UaVTZLcY/poster.jpg?width=720",Spartacus T1 - Capítulo 13
+https://content.jwplatform.com/videos/UaVTZLcY-sEiGkaoJ.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/Cr7DHIAI/poster.jpg?width=720",Spartacus T2 - Capítulo 14
+https://content.jwplatform.com/videos/Cr7DHIAI-ht9KclJW.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/Ip6bOcde/poster.jpg?width=720",Spartacus T2 - Capítulo 15
+https://content.jwplatform.com/videos/Ip6bOcde-ht9KclJW.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/uQ0hULuD/poster.jpg?width=720",Spartacus T2 - Capítulo 16
+https://content.jwplatform.com/videos/uQ0hULuD-ht9KclJW.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/V60g99PY/poster.jpg?width=720",Spartacus T2 - Capítulo 17
+https://content.jwplatform.com/videos/V60g99PY-ht9KclJW.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/z1KhbPZM/poster.jpg?width=720",Spartacus T2 - Capítulo 18
+https://content.jwplatform.com/videos/z1KhbPZM-ht9KclJW.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/PHWdStSh/poster.jpg?width=720",Spartacus T2 - Capítulo 19
+https://content.jwplatform.com/videos/PHWdStSh-ht9KclJW.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/45yrFoCo/poster.jpg?width=720",Spartacus T3 - Capítulo 20
+https://content.jwplatform.com/videos/45yrFoCo-Su2yCsKV.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/ulyRGEkE/poster.jpg?width=720",Spartacus T3 - Capítulo 21
+https://content.jwplatform.com/videos/ulyRGEkE-Su2yCsKV.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/GArTDAAr/poster.jpg?width=720",Spartacus T3 - Capítulo 22
+https://content.jwplatform.com/videos/GArTDAAr-Su2yCsKV.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/wTljgXjs/poster.jpg?width=720",Spartacus T3 - Capítulo 23
+https://content.jwplatform.com/videos/wTljgXjs-Su2yCsKV.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/S8Kvs4lt/poster.jpg?width=720",Spartacus T3 - Capítulo 24
+https://content.jwplatform.com/videos/S8Kvs4lt-Su2yCsKV.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/oNhdY1PT/poster.jpg?width=720",Spartacus T3 - Capítulo 25
+https://content.jwplatform.com/videos/oNhdY1PT-Su2yCsKV.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/FoJVMHgu/poster.jpg?width=720",Spartacus T3 - Capítulo 26
+https://content.jwplatform.com/videos/FoJVMHgu-Su2yCsKV.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/d7rSQ30o/poster.jpg?width=720",Spartacus T3 - Capítulo 27
+https://content.jwplatform.com/videos/d7rSQ30o-Su2yCsKV.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/gjTxgRnj/poster.jpg?width=720",Spartacus T3 - Capítulo 28
+https://content.jwplatform.com/videos/gjTxgRnj-Su2yCsKV.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/X21fowUD/poster.jpg?width=720",Spartacus T3 - Capítulo 29
+https://content.jwplatform.com/videos/X21fowUD-Su2yCsKV.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/oaAWBOEv/poster.jpg?width=720",Spartacus T4 - Capítulo 30
+https://content.jwplatform.com/videos/oaAWBOEv-nGBgJnuh.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/vYHV5h09/poster.jpg?width=720",Spartacus T4 - Capítulo 31
+https://content.jwplatform.com/videos/vYHV5h09-nGBgJnuh.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/bNHrETO1/poster.jpg?width=720",Spartacus T4 - Capítulo 32
+https://content.jwplatform.com/videos/bNHrETO1-nGBgJnuh.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/bKmgG8ms/poster.jpg?width=720",Spartacus T4 - Capítulo 33
+https://content.jwplatform.com/videos/bKmgG8ms-nGBgJnuh.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/nRekW4Bi/poster.jpg?width=720",Spartacus T4 - Capítulo 34
+https://content.jwplatform.com/videos/nRekW4Bi-nGBgJnuh.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/VKCNNKYr/poster.jpg?width=720",Spartacus T4 - Capítulo 35
+https://content.jwplatform.com/videos/VKCNNKYr-nGBgJnuh.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/k02OomoZ/poster.jpg?width=720",Spartacus T4 - Capítulo 36
+https://content.jwplatform.com/videos/k02OomoZ-nGBgJnuh.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/AXy6zmzu/poster.jpg?width=720",Spartacus T4 - Capítulo 37
+https://content.jwplatform.com/videos/AXy6zmzu-nGBgJnuh.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/q9uN6twQ/poster.jpg?width=720",Spartacus T4 - Capítulo 38
+https://content.jwplatform.com/videos/q9uN6twQ-nGBgJnuh.mp4
+#EXTINF:0 group-title="Spartacus" tvg-logo="https://content.jwplatform.com/v2/media/3N2ALepD/poster.jpg?width=720",Spartacus T4 - Final
+https://content.jwplatform.com/videos/3N2ALepD-nGBgJnuh.mp4
+############################################## ############################################## ##########################################
+#EXTINF:0 group-title="Jesús de Nazaret" tvg-logo="https://content.jwplatform.com/v2/media/ZP27Yg4z/poster.jpg?width=720",Jesús de Nazaret T1 - Capítulo 1
+https://content.jwplatform.com/videos/ZP27Yg4z-vCYxyFC9.mp4
+#EXTINF:0 group-title="Jesús de Nazaret" tvg-logo="https://content.jwplatform.com/v2/media/ZP27Yg4z/poster.jpg?width=720",Jesús de Nazaret T1 - Capítulo 2
+https://content.jwplatform.com/videos/CVicmFPq-vCYxyFC9.mp4
+#EXTINF:0 group-title="Jesús de Nazaret" tvg-logo="https://content.jwplatform.com/v2/media/ZP27Yg4z/poster.jpg?width=720",Jesús de Nazaret T1 - Capítulo 3
+https://content.jwplatform.com/videos/7WObJH0P-vCYxyFC9.mp4
+#EXTINF:0 group-title="Jesús de Nazaret" tvg-logo="https://content.jwplatform.com/v2/media/ZP27Yg4z/poster.jpg?width=720",Jesús de Nazaret T1 - Capítulo 4
+https://content.jwplatform.com/videos/msOZAlxf-vCYxyFC9.mp4
+
+############################################## ##Peaky Blinders############################################## #############################
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/tK3yrbeS/poster.jpg?width=720",Peaky Blinders T1 - Capítulo 1
+https://content.jwplatform.com/videos/tK3yrbeS-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/N6ttyWqF/poster.jpg?width=720",Peaky Blinders T1 - Capítulo 2
+https://content.jwplatform.com/videos/N6ttyWqF-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/1DRKAGxD/poster.jpg?width=720",Peaky Blinders T1 - Capítulo 3
+https://content.jwplatform.com/videos/1DRKAGxD-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/R1xFShfU/poster.jpg?width=720",Peaky Blinders T1 - Capítulo 4
+https://content.jwplatform.com/videos/R1xFShfU-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/r9z5QjOw/poster.jpg?width=720",Peaky Blinders T1 - Capítulo 5
+https://content.jwplatform.com/videos/r9z5QjOw-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/iWnV9Ze3/poster.jpg?width=720",Peaky Blinders T1 - Capítulo 6
+https://content.jwplatform.com/videos/iWnV9Ze3-tDXe4hcY.mp4
+
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/hr1vPLHo/poster.jpg?width=720",Peaky Blinders T2 - Capítulo 7
+https://content.jwplatform.com/videos/hr1vPLHo-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/XGNx5IJ1/poster.jpg?width=720",Peaky Blinders T2 - Capítulo 8
+https://content.jwplatform.com/videos/XGNx5IJ1-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/79MouX3M/poster.jpg?width=720",Peaky Blinders T2 - Capítulo 9
+https://content.jwplatform.com/videos/79MouX3M-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/JrFRYU9e/poster.jpg?width=720",Peaky Blinders T2 - Capítulo 10
+https://content.jwplatform.com/videos/JrFRYU9e-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/TpcCLJo5/poster.jpg?width=720",Peaky Blinders T2 - Capítulo 11
+https://content.jwplatform.com/videos/TpcCLJo5-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/yjYwSDwO/poster.jpg?width=720",Peaky Blinders T2 - Capítulo 12
+https://content.jwplatform.com/videos/yjYwSDwO-tDXe4hcY.mp4
+
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/yGNMapee/poster.jpg?width=720",Peaky Blinders T3 - Capítulo 13
+https://content.jwplatform.com/videos/yGNMapee-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/fVIuEHbM/poster.jpg?width=720",Peaky Blinders T3 - Capítulo 14
+https://content.jwplatform.com/videos/fVIuEHbM-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/ldy7c3mw/poster.jpg?width=720",Peaky Blinders T3 - Capítulo 15
+https://content.jwplatform.com/videos/ldy7c3mw-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/ntti4lsb/poster.jpg?width=720",Peaky Blinders T3 - Capítulo 16
+https://content.jwplatform.com/videos/ntti4lsb-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/x4y5NTlf/poster.jpg?width=720",Peaky Blinders T3 - Capítulo 17
+https://content.jwplatform.com/videos/x4y5NTlf-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/2k8lQ9QT/poster.jpg?width=720",Peaky Blinders T3 - Capítulo 18
+https://content.jwplatform.com/videos/2k8lQ9QT-tDXe4hcY.mp4
+
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/hTqoTLQU/poster.jpg?width=720",Peaky Blinders T4 - Capítulo 19
+https://content.jwplatform.com/videos/hTqoTLQU-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/rcg90XDa/poster.jpg?width=720",Peaky Blinders T4 - Capítulo 20
+https://content.jwplatform.com/videos/rcg90XDa-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/Zkcjz411/poster.jpg?width=720",Peaky Blinders T4 - Capítulo 21
+https://content.jwplatform.com/videos/Zkcjz411-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/1MhVma6t/poster.jpg?width=720",Peaky Blinders T4 - Capítulo 22
+https://content.jwplatform.com/videos/1MhVma6t-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/TWa2MVnE/poster.jpg?width=720",Peaky Blinders T4 - Capítulo 23
+https://content.jwplatform.com/videos/TWa2MVnE-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/eXsckqpC/poster.jpg?width=720",Peaky Blinders T4 - Capítulo 24
+https://content.jwplatform.com/videos/eXsckqpC-tDXe4hcY.mp4
+
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/MPrBLWbf/poster.jpg?width=720",Peaky Blinders T5 - Capítulo 25
+https://content.jwplatform.com/videos/MPrBLWbf-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/dYWDT359/poster.jpg?width=720",Peaky Blinders T5 - Capítulo 26
+https://content.jwplatform.com/videos/dYWDT359-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/sREZSTLp/poster.jpg?width=720",Peaky Blinders T5 - Capítulo 27
+https://content.jwplatform.com/videos/sREZSTLp-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/rVNkISae/poster.jpg?width=720",Peaky Blinders T5 - Capítulo 28
+https://content.jwplatform.com/videos/rVNkISae-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/jA15g3Xo/poster.jpg?width=720",Peaky Blinders T5 - Capítulo 29
+https://content.jwplatform.com/videos/jA15g3Xo-tDXe4hcY.mp4
+#EXTINF:0 group-title="Peaky Blinders" tvg-logo="https://content.jwplatform.com/v2/media/nKb4X2hX/poster.jpg?width=720",Peaky Blinders T5 - Capítulo 30
+https://content.jwplatform.com/videos/nKb4X2hX-tDXe4hcY.mp4
+
+############################################## ############################################## ##########################################
+#EXTINF:0 group-title="Chernobyl" tvg-logo="https://content.jwplatform.com/v2/media/RRYrtDGu/poster.jpg?width=720",Chernobyl T1 - Capítulo 1
+https://content.jwplatform.com/videos/RRYrtDGu-X2qpGveT.mp4
+#EXTINF:0 group-title="Chernobyl" tvg-logo="https://content.jwplatform.com/v2/media/QfgRLwoU/poster.jpg?width=720",Chernobyl T1 - Capítulo 2
+https://content.jwplatform.com/videos/QfgRLwoU-X2qpGveT.mp4
+#EXTINF:0 group-title="Chernobyl" tvg-logo="https://content.jwplatform.com/v2/media/OqBxZ4qu/poster.jpg?width=720",Chernobyl T1 - Capítulo 3
+https://content.jwplatform.com/videos/OqBxZ4qu-X2qpGveT.mp4
+#EXTINF:0 group-title="Chernobyl" tvg-logo="https://content.jwplatform.com/v2/media/WdWa2qAk/poster.jpg?width=720",Chernobyl T1 - Capítulo 4
+https://content.jwplatform.com/videos/WdWa2qAk-6WFsbhPC.mp4
+#EXTINF:0 group-title="Chernobyl" tvg-logo="https://content.jwplatform.com/v2/media/VtFG6vqz/poster.jpg?width=720",Chernobyl T1 - Capítulo 5 Final
+https://content.jwplatform.com/videos/VtFG6vqz-X2qpGveT.mp4
+
+############################################## ############################################## ##########################################
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/MUH8rhS1/poster.jpg?width=720",Prison Break T1 - Capítulo 1
+https://content.jwplatform.com/videos/MUH8rhS1-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/xNz6RUvI/poster.jpg?width=720",Prison Break T1 - Capítulo 2
+https://content.jwplatform.com/videos/xNz6RUvI-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/FNvxMXEt/poster.jpg?width=720",Prison Break T1 - Capítulo 3
+https://content.jwplatform.com/videos/FNvxMXEt-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/72MeOSrk/poster.jpg?width=720",Prison Break T1 - Capítulo 4
+https://content.jwplatform.com/videos/72MeOSrk-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/dpC3GkZI/poster.jpg?width=720",Prison Break T1 - Capítulo 5
+https://content.jwplatform.com/videos/dpC3GkZI-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/QqEPmVy2/poster.jpg?width=720",Prison Break T1 - Capítulo 6
+https://content.jwplatform.com/videos/QqEPmVy2-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/UXKKmhMZ/poster.jpg?width=720",Prison Break T1 - Capítulo 7
+https://content.jwplatform.com/videos/UXKKmhMZ-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/32TkzcX2/poster.jpg?width=720",Prison Break T1 - Capítulo 8
+https://content.jwplatform.com/videos/32TkzcX2-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/xC0Uc5oo/poster.jpg?width=720",Prison Break T1 - Capítulo 9
+https://content.jwplatform.com/videos/xC0Uc5oo-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/0H7jgcdJ/poster.jpg?width=720",Prison Break T1 - Capítulo 10
+https://content.jwplatform.com/videos/0H7jgcdJ-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/DiUtEGOz/poster.jpg?width=720",Prison Break T1 - Capítulo 11
+https://content.jwplatform.com/videos/DiUtEGOz-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/eDweDW0p/poster.jpg?width=720",Prison Break T1 - Capítulo 12
+https://content.jwplatform.com/videos/eDweDW0p-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/ESF8ucXE/poster.jpg?width=720",Prison Break T1 - Capítulo 13
+https://content.jwplatform.com/videos/ESF8ucXE-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/hRwMQhRJ/poster.jpg?width=720",Prison Break T1 - Capítulo 14
+https://content.jwplatform.com/videos/hRwMQhRJ-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/YbOeBIyT/poster.jpg?width=720",Prison Break T1 - Capítulo 15
+https://content.jwplatform.com/videos/YbOeBIyT-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/8EDpjSON/poster.jpg?width=720",Prison Break T1 - Capítulo 16
+https://content.jwplatform.com/videos/8EDpjSON-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/tAr2xo74/poster.jpg?width=720",Prison Break T1 - Capítulo 17
+https://content.jwplatform.com/videos/tAr2xo74-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/FkxtNKGa/poster.jpg?width=720",Prison Break T1 - Capítulo 18
+https://content.jwplatform.com/videos/FkxtNKGa-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/lBiYLQpq/poster.jpg?width=720",Prison Break T1 - Capítulo 19
+https://content.jwplatform.com/videos/lBiYLQpq-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/J2QWcfDm/poster.jpg?width=720",Prison Break T1 - Capítulo 20
+https://content.jwplatform.com/videos/J2QWcfDm-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/2ZvuxpIW/poster.jpg?width=720",Prison Break T1 - Capítulo 21
+https://content.jwplatform.com/videos/2ZvuxpIW-9MsOdhOt.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/yLfPkkID/poster.jpg?width=720",Prison Break T1 - Capítulo 22
+https://content.jwplatform.com/videos/yLfPkkID-9MsOdhOt.mp4
+
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/hypt3VLR/poster.jpg?width=720",Prison Break T2 - Capítulo 23
+https://content.jwplatform.com/videos/hypt3VLR-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/QfI2L7TC/poster.jpg?width=720",Prison Break T2 - Capítulo 24
+https://content.jwplatform.com/videos/QfI2L7TC-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/arL5FBMw/poster.jpg?width=720",Prison Break T2 - Capítulo 25
+https://content.jwplatform.com/videos/arL5FBMw-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/GXXsgpC5/poster.jpg?width=720",Prison Break T2 - Capítulo 26
+https://content.jwplatform.com/videos/GXXsgpC5-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/Ypdjdu8I/poster.jpg?width=720",Prison Break T2 - Capítulo 27
+https://content.jwplatform.com/videos/Ypdjdu8I-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/KZckjfbW/poster.jpg?width=720",Prison Break T2 - Capítulo 28
+https://content.jwplatform.com/videos/KZckjfbW-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/EWD8vvmO/poster.jpg?width=720",Prison Break T2 - Capítulo 29
+https://content.jwplatform.com/videos/EWD8vvmO-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/kpC7DOHJ/poster.jpg?width=720",Prison Break T2 - Capítulo 30
+https://content.jwplatform.com/videos/kpC7DOHJ-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/KHYIE7J6/poster.jpg?width=720",Prison Break T2 - Capítulo 31
+https://content.jwplatform.com/videos/KHYIE7J6-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/7pZRbHhW/poster.jpg?width=720",Prison Break T2 - Capítulo 32
+https://content.jwplatform.com/videos/7pZRbHhW-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/e1snHUW6/poster.jpg?width=720",Prison Break T2 - Capítulo 33
+https://content.jwplatform.com/videos/e1snHUW6-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/Kes1dBfT/poster.jpg?width=720",Prison Break T2 - Capítulo 34
+https://content.jwplatform.com/videos/Kes1dBfT-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/R9DFmUiY/poster.jpg?width=720",Prison Break T2 - Capítulo 35
+https://content.jwplatform.com/videos/R9DFmUiY-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/0XhCNsom/poster.jpg?width=720",Prison Break T2 - Capítulo 36
+https://content.jwplatform.com/videos/0XhCNsom-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/WJExm9M6/poster.jpg?width=720",Prison Break T2 - Capítulo 37
+https://content.jwplatform.com/videos/WJExm9M6-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/4eZKIlz0/poster.jpg?width=720",Prison Break T2 - Capítulo 38
+https://content.jwplatform.com/videos/4eZKIlz0-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/xUI01NzR/poster.jpg?width=720",Prison Break T2 - Capítulo 39
+https://content.jwplatform.com/videos/xUI01NzR-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/hyOkfQTk/poster.jpg?width=720",Prison Break T2 - Capítulo 40
+https://content.jwplatform.com/videos/hyOkfQTk-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/FtJ1733P/poster.jpg?width=720",Prison Break T2 - Capítulo 41
+https://content.jwplatform.com/videos/FtJ1733P-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/c2YhS5lK/poster.jpg?width=720",Prison Break T2 - Capítulo 42
+https://content.jwplatform.com/videos/c2YhS5lK-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/twU2nDep/poster.jpg?width=720",Prison Break T2 - Capítulo 43
+https://content.jwplatform.com/videos/twU2nDep-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/T9ej60O4/poster.jpg?width=720",Prison Break T2 - Capítulo 44
+https://content.jwplatform.com/videos/T9ej60O4-KVR7Sh6X.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/H675jKvV/poster.jpg?width=720",Prison Break T3 - Capítulo 45
+https://content.jwplatform.com/videos/H675jKvV-tdYtS4qC.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/u8RFHt8i/poster.jpg?width=720",Prison Break T3 - Capítulo 46
+https://content.jwplatform.com/videos/u8RFHt8i-tdYtS4qC.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/dDoLlTpt/poster.jpg?width=720",Prison Break T3 - Capítulo 47
+https://content.jwplatform.com/videos/dDoLlTpt-tdYtS4qC.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/5OWv1gfG/poster.jpg?width=720",Prison Break T3 - Capítulo 48
+https://content.jwplatform.com/videos/5OWv1gfG-tdYtS4qC.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/revJDU3z/poster.jpg?width=720",Prison Break T3 - Capítulo 49
+https://content.jwplatform.com/videos/revJDU3z-tdYtS4qC.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/R4h6x19L/poster.jpg?width=720",Prison Break T3 - Capítulo 50
+https://content.jwplatform.com/videos/R4h6x19L-tdYtS4qC.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/ThcWcRx7/poster.jpg?width=720",Prison Break T3 - Capítulo 51
+https://content.jwplatform.com/videos/ThcWcRx7-tdYtS4qC.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/xjgRkdcb/poster.jpg?width=720",Prison Break T3 - Capítulo 52
+https://content.jwplatform.com/videos/xjgRkdcb-tdYtS4qC.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/G1dcKk9r/poster.jpg?width=720",Prison Break T3 - Capítulo 53
+https://content.jwplatform.com/videos/G1dcKk9r-tdYtS4qC.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/ZsrMtpcF/poster.jpg?width=720",Prison Break T3 - Capítulo 54
+https://content.jwplatform.com/videos/ZsrMtpcF-tdYtS4qC.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/AYLmgWPs/poster.jpg?width=720",Prison Break T3 - Capítulo 55
+https://content.jwplatform.com/videos/AYLmgWPs-tdYtS4qC.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/K3heOLTT/poster.jpg?width=720",Prison Break T3 - Capítulo 56
+https://content.jwplatform.com/videos/K3heOLTT-tdYtS4qC.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/oLsBeJCr/poster.jpg?width=720",Prison Break T3 - Capítulo 57
+https://content.jwplatform.com/videos/oLsBeJCr-tdYtS4qC.mp4
+
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/auIrbGz7/poster.jpg?width=720",Prison Break T4 - Capítulo 58
+https://content.jwplatform.com/videos/auIrbGz7-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/hkx7ZTSg/poster.jpg?width=720",Prison Break T4 - Capítulo 59
+https://content.jwplatform.com/videos/hkx7ZTSg-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/QInghkOG/poster.jpg?width=720",Prison Break T4 - Capítulo 60
+https://content.jwplatform.com/videos/QInghkOG-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/ivjKRgA1/poster.jpg?width=720",Prison Break T4 - Capítulo 61
+https://content.jwplatform.com/videos/ivjKRgA1-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/qrf4Cny4/poster.jpg?width=720",Prison Break T4 - Capítulo 62
+https://content.jwplatform.com/videos/qrf4Cny4-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/NuvN8Cy8/poster.jpg?width=720",Prison Break T4 - Capítulo 63
+https://content.jwplatform.com/videos/NuvN8Cy8-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/LdZYStEk/poster.jpg?width=720",Prison Break T4 - Capítulo 64
+https://content.jwplatform.com/videos/LdZYStEk-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/VZFLW3aS/poster.jpg?width=720",Prison Break T4 - Capítulo 65
+https://content.jwplatform.com/videos/VZFLW3aS-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/jMrY2M9Y/poster.jpg?width=720",Prison Break T4 - Capítulo 66
+https://content.jwplatform.com/videos/jMrY2M9Y-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/Kjqv1A0O/poster.jpg?width=720",Prison Break T4 - Capítulo 67
+https://content.jwplatform.com/videos/Kjqv1A0O-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/kQaZo56F/poster.jpg?width=720",Prison Break T4 - Capítulo 68
+https://content.jwplatform.com/videos/kQaZo56F-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/hZ4tKEtg/poster.jpg?width=720",Prison Break T4 - Capítulo 69
+https://content.jwplatform.com/videos/hZ4tKEtg-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/Bwzidj6v/poster.jpg?width=720",Prison Break T4 - Capítulo 70
+https://content.jwplatform.com/videos/Bwzidj6v-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/hxERLLSI/poster.jpg?width=720",Prison Break T4 - Capítulo 71
+https://content.jwplatform.com/videos/hxERLLSI-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/A3IahAuC/poster.jpg?width=720",Prison Break T4 - Capítulo 72
+https://content.jwplatform.com/videos/A3IahAuC-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/1OpnkmZl/poster.jpg?width=720",Prison Break T4 - Capítulo 73
+https://content.jwplatform.com/videos/1OpnkmZl-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/IEaVSXK4/poster.jpg?width=720",Prison Break T4 - Capítulo 74
+https://content.jwplatform.com/videos/IEaVSXK4-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/cdBlgbNp/poster.jpg?width=720",Prison Break T4 - Capítulo 75
+https://content.jwplatform.com/videos/cdBlgbNp-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/hiYSGIyo/poster.jpg?width=720",Prison Break T4 - Capítulo 76
+https://content.jwplatform.com/videos/hiYSGIyo-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/RP9Fpa6U/poster.jpg?width=720",Prison Break T4 - Capítulo 77
+https://content.jwplatform.com/videos/RP9Fpa6U-AW4nIoYx.mp4
+#EXTINF:0 group-title="Prison Break" tvg-logo="https://content.jwplatform.com/v2/media/AxxKYKVF/poster.jpg?width=720",Prison Break T4 - Capítulo 78
+https://content.jwplatform.com/videos/AxxKYKVF-AW4nIoYx.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://51.222.152.107:81/posters/1502752859399.jpg" group-title="CINE ",A&E
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3019
+#EXTINF:-1 tvg-id="" tvg-name="A+" tvg-logo="" group-title="MÉXICO ",A+
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3024
+#EXTINF:-1 tvg-id="" tvg-name="Serie A3" tvg-logo="http://51.222.152.107:81/posters/1530597051256.jpg" group-title="CINE ",Serie A3
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3018
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="http://51.222.152.107:81/posters/1502409076451.jpg" group-title="MÉXICO ",ADN 40
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3020
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sports Network" tvg-logo="" group-title="DEPORTES ",Adrenalina Sports Network
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3192
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados" tvg-logo="http://51.222.152.107:81/posters/1531027896579.jpg" group-title="DEPORTES ",Afizzionados
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3193
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://51.222.152.107:81/posters/1502752868464.jpg" group-title="CINE ",AMC
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3021
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://51.222.152.107:81/posters/1502752879305.jpg" group-title="CULTURALES ",Animal Planet
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3022
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="http://51.222.152.107:81/posters/1530597180220.jpg" group-title="ENTRETENIMIENTO ",Antena 3
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3023
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - ESPN" tvg-logo="" group-title="DEPORTES",Argentina - ESPN
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3230
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - ESPN 2" tvg-logo="" group-title="DEPORTES",Argentina - ESPN 2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3231
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - ESPN 3" tvg-logo="" group-title="DEPORTES",Argentina - ESPN 3
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3232
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - FOX Sports" tvg-logo="" group-title="DEPORTES",Argentina - FOX Sports
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3233
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - FOX Sports 2" tvg-logo="" group-title="DEPORTES ",Argentina - FOX Sports 2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3234
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - FOX Sports 3" tvg-logo="" group-title="DEPORTES ",Argentina - FOX Sports 3
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3235
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - FOX Sports Premium" tvg-logo="" group-title="DEPORTES",Argentina - FOX Sports Premium
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3236
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - TNT Sports" tvg-logo="" group-title="DEPORTES",Argentina - TNT Sports
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3237
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - TYC Sports" tvg-logo="" group-title="DEPORTES",Argentina - TYC Sports
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3238
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://51.222.152.107:81/posters/1502752888382.jpg" group-title="CINE ",AXN
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3025
+#EXTINF:-1 tvg-id="" tvg-name="AyM Sports" tvg-logo="http://51.222.152.107:81/posters/1502752898522.jpg" group-title="DEPORTES ",AyM Sports
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3026
+#EXTINF:-1 tvg-id="" tvg-name="Cine Az" tvg-logo="http://51.222.152.107:81/posters/1502752909502.jpg" group-title="CINE ",Cine Az
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3027
+#EXTINF:-1 tvg-id="" tvg-name="Az Corazon" tvg-logo="http://51.222.152.107:81/posters/1502752938580.jpg" group-title="MEXICO ",Az Corazon
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3028
+#EXTINF:-1 tvg-id="" tvg-name="Az Mundo" tvg-logo="http://51.222.152.107:81/posters/1502752948197.jpg" group-title="MÉXICO ",Az Mundo
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3029
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="http://51.222.152.107:81/posters/1502752992158.jpg" group-title="MÉXICO ",Azteca 7
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3030
+#EXTINF:-1 tvg-id="" tvg-name="Azteca UNO" tvg-logo="http://51.222.152.107:81/posters/1527113942248.jpg" group-title="MÉXICO ",Azteca UNO
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3031
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno -2 Horas" tvg-logo="" group-title="MEXICO ",Azteca Uno -2 Horas
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3144
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="http://51.222.152.107:81/posters/1596473429543.jpg" group-title="INFANTILES ",Baby First
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3032
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://51.222.152.107:81/posters/1530595474268.jpg" group-title="INFANTILES ",Baby TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3033
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax" tvg-logo="http://51.222.152.107:81/posters/1502753003472.jpg" group-title="MUSICA ",Bandamax
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3034
+#EXTINF:-1 tvg-id="" tvg-name="Barça TV" tvg-logo="http://51.222.152.107:81/posters/1509421148258.jpg" group-title="DEPORTES ",Barça TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3220
+#EXTINF:-1 tvg-id="" tvg-name="Barney y sus amigos" tvg-logo="http://51.222.152.107:81/posters/1610693106459.jpg" group-title="24/7 Barney y sus amigos
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3366
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports USA" tvg-logo="http://51.222.152.107:81/posters/1493241634576.jpg" group-title="DEPORTES ",BeinSports USA
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3196
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports ÃƒÂ±" tvg-logo="http://51.222.152.107:81/posters/1502828558208.jpg" group-title="DEPORTES ",BeinSports ÃƒÂ±
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3195
+#EXTINF:-1 tvg-id="" tvg-name="BitMe" tvg-logo="" group-title="INFANTILES ",BitMe
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3035
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="http://51.222.152.107:81/posters/1610693186338.jpg" group-title="24/7 ", Bob Esponja
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3355
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://51.222.152.107:81/posters/1502753013284.jpg" group-title="INFANTILES ",Boomerang
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3036
+#EXTINF:-1 tvg-id="" tvg-name="Brasil - Sport TV 1" tvg-logo="" group-title="DEPORTES",Brasil - Sport TV 1
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3239
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad" tvg-logo="http://51.222.152.107:81/posters/1610693208284.jpg" group-title="24/7 ", Breaking Bad
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3356
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-logo="http://51.222.152.107:81/posters/1502409113408.jpg" group-title="MÉXICO ",Canal 11
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3037
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="http://51.222.152.107:81/posters/1502753025270.jpg" group-title="MÉXICO ",Canal 5
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3038
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 (Gala TV)" tvg-logo="http://51.222.152.107:81/posters/1502753710256.jpg" group-title="MÉXICO ", Canal 9 (Gala TV)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3086
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 (Gala TV)" tvg-logo="http://51.222.152.107:81/posters/1502754679156.jpg" group-title="MÉXICO ", Canal 9 (Gala TV)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3147
+#EXTINF:-1 tvg-id="" tvg-name="Canal Toros" tvg-logo="http://51.222.152.107:81/posters/1496868600445.jpg" group-title="DEPORTES ",Canal Toros
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3197
+#EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="http://51.222.152.107:81/posters/1517080529348.jpg" group-title="ENTRETENIMIENTO ",Caracol
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3165
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://51.222.152.107:81/posters/1502753037235.jpg" group-title="INFANTILES ",Cartoon Network
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3039
+#EXTINF:-1 tvg-id="" tvg-name="Chile - CDF Estadio" tvg-logo="" group-title="DEPORTES ",Chile - CDF Estadio
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3241
+#EXTINF:-1 tvg-id="" tvg-name="Chile - CDF Premium" tvg-logo="" group-title="DEPORTES ",Chile - CDF Premium
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3242
+#EXTINF:-1 tvg-id="" tvg-name="Chile - CDO Premium" tvg-logo="" group-title="DEPORTES",Chile - CDO Premium
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3243
+#EXTINF:-1 tvg-id="" tvg-name="Chile - CFD" tvg-logo="" group-title="DEPORTES",Chile - CFD
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3240
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="http://51.222.152.107:81/posters/1502753048250.jpg" group-title="CINE ",Cinecanal
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3040
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino" tvg-logo="http://51.222.152.107:81/posters/1502829523491.jpg" group-title="CINE ",Cinelatino
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3279
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://51.222.152.107:81/posters/1502753073236.jpg" group-title="CINE ",Cinemax
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3041
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="DEPORTES ",Claro Sports
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3198
+#EXTINF:-1 tvg-id="" tvg-name="CNN en Español" tvg-logo="http://51.222.152.107:81/posters/1530597664136.jpg" group-title="MÉXICO ",CNN en español
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3042
+#EXTINF:-1 tvg-id="" tvg-name="CNN USA" tvg-logo="" group-title="MÉXICO ",CNN USA
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3043
+#EXTINF:-1 tvg-id="" tvg-name="Colombia - Win Sports" tvg-logo="" group-title="DEPORTES ",Colombia - Win Sports
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3244
+#EXTINF:-1 tvg-id="" tvg-name="Colombia - Win Sports +" tvg-logo="" group-title="DEPORTES ",Colombia - Win Sports +
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3245
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="http://51.222.152.107:81/posters/1502753104466.jpg" group-title="ENTRETENIMIENTO ",Comedy Central
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3044
+#EXTINF:-1 tvg-id="" tvg-name="Coraje el Perro Cobarde" tvg-logo="http://51.222.152.107:81/posters/1610693240483.jpg" group-title="24/7 Coraje el Perro Cobarde
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3357
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="http://51.222.152.107:81/posters/1502753114512.jpg" group-title="CINE ",De Pelicula
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3045
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Clasico" tvg-logo="http://51.222.152.107:81/posters/1618974359150.png" group-title="CINE ",De pelicula clasico
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3046
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus" tvg-logo="http://51.222.152.107:81/posters/1596473814534.jpg" group-title="CINE ",De Pelicula Plus
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3047
+#EXTINF:-1 tvg-id="" tvg-name="DesafÃƒÂo sobre Fuego" tvg-logo="http://51.222.152.107:81/posters/1610693284228.jpg" group-title="24/7 " ,DesafÃo sobre Fuego
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3358
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://51.222.152.107:81/posters/1502753127251.jpg" group-title="CULTURALES ",Discovery Channel
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3048
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="http://51.222.152.107:81/posters/1502753140490.jpg" group-title="CULTURALES ",Discovery Civilization
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3049
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="http://51.222.152.107:81/posters/1502753156412.jpg" group-title="CULTURALES ",Discovery H&H
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3050
+#EXTINF:-1 tvg-id="" tvg-name="Discovery KIDS" tvg-logo="http://51.222.152.107:81/posters/1502753181376.jpg" group-title="INFANTILES ",Discovery KIDS
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3052
+#EXTINF:-1 tvg-id="" tvg-name="Ciencia del Descubrimiento" tvg-logo="http://51.222.152.107:81/posters/1502753199573.jpg" group-title="CULTURALES ",Ciencia del Descubrimiento
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3053
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theatre" tvg-logo="http://51.222.152.107:81/posters/1502753212241.jpg" group-title="CULTURALES ",Discovery Theatre
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3054
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC" tvg-logo="http://51.222.152.107:81/posters/1502753223574.jpg" group-title="CULTURALES ",Discovery TLC
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3055
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://51.222.152.107:81/posters/1502753255344.jpg" group-title="CULTURALES ",Discovery Turbo
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3056
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Descubrimiento" tvg-logo="http://51.222.152.107:81/posters/1502753267386.jpg" group-title="CULTURALES ",Mundo Descubrimiento
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3057
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://51.222.152.107:81/posters/1502753278160.jpg" group-title="INFANTILES ",Disney Channel
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3058
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://51.222.152.107:81/posters/1502753294187.jpg" group-title="INFANTILES ",Disney Junior
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3059
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://51.222.152.107:81/posters/1502753303323.jpg" group-title="INFANTILES ",Disney XD
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3060
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="http://51.222.152.107:81/posters/1502753361414.jpg" group-title="ENTRETENIMIENTO ",Distrito Comedia
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3061
+#EXTINF:-1 tvg-id="" tvg-name="Don Gato y su Pandilla" tvg-logo="http://51.222.152.107:81/posters/1610693311265.jpg" group-title="24/ 7 ", Don Gato y su Pandilla
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3359
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="http://51.222.152.107:81/posters/1610693333234.jpg" group-title="24/7 ", esfera del dragón
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3360
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="http://51.222.152.107:81/posters/1610693353495.jpg" group-title="24/7 " ,Dragon Ball GT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3361
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="http://51.222.152.107:81/posters/1610693370278.jpg" group-title="24/7 " ,Bola de Dragón Súper
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3362
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="http://51.222.152.107:81/posters/1610693387238.jpg" group-title="24/7 " ,Dragon Ball Z
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3363
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://51.222.152.107:81/posters/1502753372473.jpg" group-title="ENTRETENIMIENTO ",E!
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3062
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://51.222.152.107:81/posters/1502828109216.jpg" group-title="ENTRETENIMIENTO ",E!
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3168
+#EXTINF:-1 tvg-id="" tvg-name="El ChapulÃƒÂn Colorado" tvg-logo="http://51.222.152.107:81/posters/1610693405340.jpg" group-title="24/7 " ,El Chapulán Colorado
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3364
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8" tvg-logo="http://51.222.152.107:81/posters/1610693432566.jpg" group-title="24/7 ", El Chavo del 8
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3365
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 Animado" tvg-logo="http://51.222.152.107:81/posters/1610693448389.jpg" group-title="24/ 7", El Chavo del 8 Animado
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3354
+#EXTINF:-1 tvg-id="" tvg-name="El Chema" tvg-logo="http://51.222.152.107:81/posters/1610693475272.jpg" group-title="24/7 ", El Chema
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3367
+#EXTINF:-1 tvg-id="" tvg-name="El Correcaminos" tvg-logo="http://51.222.152.107:81/posters/1610693494352.jpg" group-title="24/7 ", El Correcaminos
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3368
+#EXTINF:-1 tvg-id="" tvg-name="El Financiero Bloomberg" tvg-logo="http://51.222.152.107:81/posters/1502753388248.jpg" group-title="MEXICO ",El Financiero Bloomberg
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3063
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="http://51.222.152.107:81/posters/1502753401137.jpg" group-title="ENTRETENIMIENTO ",El Gourmet
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3064
+#EXTINF:-1 tvg-id="" tvg-name="El Señor de los Cielos" tvg-logo="http://51.222.152.107:81/posters/1610693508531.jpg" group-title=" 24/7", El Señor de los Cielos
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3369
+#EXTINF:-1 tvg-id="" tvg-name="ESPN +" tvg-logo="http://51.222.152.107:81/posters/1502753422333.jpg" group-title="DEPORTES ", ESPN +
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3065
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://51.222.152.107:81/posters/1503464196485.jpg" group-title="DEPORTES ",ESPN 1
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3066
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://51.222.152.107:81/posters/1502753463562.jpg" group-title="DEPORTES ",ESPN 2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3067
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://51.222.152.107:81/posters/1502753472346.jpg" group-title="DEPORTES ",ESPN 3
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3068
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" tvg-logo="http://51.222.152.107:81/posters/1502828719391.jpg" group-title="DEPORTES ",ESPN Deportes
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3203
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U" tvg-logo="" group-title="DEPORTES ",ESPN U
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3069
+#EXTINF:-1 tvg-id="" tvg-name="Estrella TV" tvg-logo="http://51.222.152.107:81/posters/1570032392287.jpg" group-title="ENTRETENIMIENTO ",Estrella TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3170
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="http://51.222.152.107:81/posters/1570029883137.jpg" group-title="DEPORTES ",Eurosport 1
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3221
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="http://51.222.152.107:81/posters/1570029934187.jpg" group-title="DEPORTES ",Eurosport 2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3222
+#EXTINF:-1 tvg-id="" tvg-name="Familia P. Luche" tvg-logo="http://51.222.152.107:81/posters/1610693536500.jpg" group-title="24/7 ",Familia P. Luche
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3370
+#EXTINF:-1 tvg-id="" tvg-name="fh" tvg-logo="" group-title="24/7 ",fh
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3352
+#EXTINF:-1 tvg-id="" tvg-name="Figueirense vs Ponte Preta / 13:00" tvg-logo="http://51.222.152.107:81/posters/1611905068381.jpeg" group-title= "24/7", Figueirense vs Ponte Preta / 13:00 horas
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3353
+#EXTINF:-1 tvg-id="" tvg-name="Red de Alimentos" tvg-logo="http://51.222.152.107:81/posters/1530596285528.jpg" group-title="DEPORTES ",Red de Alimentos
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3070
+#EXTINF:-1 tvg-id="" tvg-name="Foro TV" tvg-logo="http://51.222.152.107:81/posters/1502753519477.jpg" group-title="MÉXICO ",Foro TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3071
+#EXTINF:-1 tvg-id="" tvg-name="FOX (Star Channel)" tvg-logo="http://51.222.152.107:81/posters/1502753530268.jpg" group-title="CINE " ,FOX (Canal Estrella)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3072
+#EXTINF:-1 tvg-id="" tvg-name="FOX Cinema (Star Cinema)" tvg-logo="http://51.222.152.107:81/posters/1502753602562.jpg" group-title="CINE ",Cine FOX (Cine estrella)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3074
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedia (Comedia estrella)" tvg-logo="" group-title="CINE ",FOX Comedia (Comedia estrella)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3076
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes" tvg-logo="http://51.222.152.107:81/posters/1502828808242.jpg" group-title="DEPORTES ",FOX Deportes
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3204
+#EXTINF:-1 tvg-id="" tvg-name="Familia FOX (Diversión estelar)" tvg-logo="" group-title="CINE ",Familia FOX (Diversión estelar)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3077
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life (Star Life)" tvg-logo="http://51.222.152.107:81/posters/1502753654516.jpg" group-title="CINE ",Zorro de la vida (vida de la estrella)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3078
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Action (Star Action)" tvg-logo="http://51.222.152.107:81/posters/1502753549312.jpg" group-title=" CINE ",FOX Premium Action (Star Action)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3073
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Movies (Star Hits)" tvg-logo="http://51.222.152.107:81/posters/1502753666470.jpg" group-title=" CINE ", FOX Premium Movies (éxitos de estrellas)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3079
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Series (Star Series)" tvg-logo="" group-title="CINEMA ",FOX Premium Series (Star Series)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3080
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes 1" tvg-logo="http://51.222.152.107:81/posters/1502753675525.jpg" group-title="DEPORTES ",FOX Deportes 1
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3081
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="http://51.222.152.107:81/posters/1502753687477.jpg" group-title="DEPORTES ",FOX Deportes 2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3082
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3" tvg-logo="http://51.222.152.107:81/posters/1505364166295.jpg" group-title="DEPORTES ",FOX Deportes 3
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3083
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="http://51.222.152.107:81/posters/1610693562305.jpg" group-title="24/7 ",Futurama
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3371
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://51.222.152.107:81/posters/1502753699339.jpg" group-title="CINE ",FX
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3084
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="" group-title="CINE ",FXM
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3085
+#EXTINF:-1 tvg-id="" tvg-name="Juego de Tronos" tvg-logo="http://51.222.152.107:81/posters/1610693579240.jpg" group-title="24/7 " ,Game of Thrones
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3372
+#EXTINF:-1 tvg-id="" tvg-name="Garaje TV" tvg-logo="http://51.222.152.107:81/posters/1502753724290.jpg" group-title="DEPORTES ",Garaje TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3087
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="http://51.222.152.107:81/posters/1502828207428.jpg" group-title="ENTRETENIMIENTO ",Garage TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3176
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="http://51.222.152.107:81/posters/1502753735513.jpg" group-title="CINE ",Glitz
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3088
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="http://51.222.152.107:81/posters/1502828219513.jpg" group-title="CINE ",Glitz
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3177
+#EXTINF:-1 tvg-id="" tvg-name="Dorado" tvg-logo="http://51.222.152.107:81/posters/1502753748224.jpg" group-title="CINE ",Dorado
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3089
+#EXTINF:-1 tvg-id="" tvg-name="Borde dorado" tvg-logo="http://51.222.152.107:81/posters/1502753859324.jpg" group-title="CINE ",Borde dorado
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3090
+#EXTINF:-1 tvg-id="" tvg-name="Más dorado" tvg-logo="http://51.222.152.107:81/posters/1596473612363.jpg" group-title="CINE ",Más dorado
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3091
+#EXTINF:-1 tvg-id="" tvg-name="Premier Dorado" tvg-logo="" group-title="CINE",Premier Dorado
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3092
+#EXTINF:-1 tvg-id="" tvg-name="Canal Golf Latinoamerica" ​​tvg-logo="http://51.222.152.107:81/posters/1530593422365.jpg" group-title="DEPORTES ",Golf Canal Latinoamérica
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3093
+#EXTINF:-1 tvg-id="" tvg-name="Canal Golf Latinoamerica" ​​tvg-logo="http://51.222.152.107:81/posters/1502828852390.jpg" group-title="DEPORTES ",Golf Canal Latinoamérica
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3208
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://51.222.152.107:81/posters/1502755052281.jpg" group-title="CULTURALES ",H2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3258
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://51.222.152.107:81/posters/1502829744276.jpg" group-title="CINE ",HBO
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3296
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://51.222.152.107:81/posters/1501809499341.jpg" group-title="CINE ",HBO 2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3297
+#EXTINF:-1 tvg-id="" tvg-name="Familia HBO" tvg-logo="http://51.222.152.107:81/posters/1501809803170.jpg" group-title="CINE ",Familia HBO
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3298
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="" group-title="CINE ",HBO Mundi
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3299
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="http://51.222.152.107:81/posters/1502829725198.jpg" group-title="CINE ",HBO Plus
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3300
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="http://51.222.152.107:81/posters/1496809663482.jpg" group-title="CINE ",HBO POP
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3304
+#EXTINF:-1 tvg-id="" tvg-name="Firma de HBO" tvg-logo="http://51.222.152.107:81/posters/1527221651451.jpg" group-title="CINE ",Firma de HBO
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3301
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="http://51.222.152.107:81/posters/1502829809534.jpg" group-title="CINE ",HBO Xtreme
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3302
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="ENTRETENIMIENTO",HGTV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3094
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="ENTRETENIMIENTO",HGTV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3259
+#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="http://51.222.152.107:81/posters/1505362463569.jpg" group-title="CULTURALES ",Historia
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3095
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="http://51.222.152.107:81/posters/1502753872500.jpg" group-title="ENTRETENIMIENTO ",Hola TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3096
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="http://51.222.152.107:81/posters/1502828231178.jpg" group-title="ENTRETENIMIENTO ",Hola TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3178
+#EXTINF:-1 tvg-id="" tvg-name="HÃƒÂ©roes en Pijamas" tvg-logo="http://51.222.152.107:81/posters/1610693601143.jpg" group-title="24/ 7",Héroes en Pijamas
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3373
+#EXTINF:-1 tvg-id="" tvg-name="I.Sat" tvg-logo="http://51.222.152.107:81/posters/1502753884438.jpg" group-title="CINE ",I .Se sentó
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3099
+#EXTINF:-1 tvg-id="" tvg-name="I.Sat" tvg-logo="http://51.222.152.107:81/posters/1502829796512.jpg" group-title="CINE ",I .Se sentó
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3303
+#EXTINF:-1 tvg-id="" tvg-name="Imagen Television" tvg-logo="" group-title="MEXICO ",Imagen Television
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3097
+#EXTINF:-1 tvg-id="" tvg-name="Imagen Television" tvg-logo="http://51.222.152.107:81/posters/1502754692162.jpg" group-title="MEXICO ",Imagen Television
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3148
+#EXTINF:-1 tvg-id="" tvg-name="Ingenio TV" tvg-logo="" group-title="MÉXICO",Ingenio TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3098
+#EXTINF:-1 tvg-id="" tvg-name="Ingenio TV" tvg-logo="" group-title="MÉXICO",Ingenio TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3149
+#EXTINF:-1 tvg-id="" tvg-name="Investigación Descubrimiento" tvg-logo="http://51.222.152.107:81/posters/1502753168445.jpg" group-title="CULTURALES ",Investigación Descubrimiento
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3051
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Papel" tvg-logo="http://51.222.152.107:81/posters/1610693624511.jpg" group-title="24/7 ", La Casa de Papel
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3374
+#EXTINF:-1 tvg-id="" tvg-name="La Pantera Rosa" tvg-logo="http://51.222.152.107:81/posters/1610693650389.jpg" group-title="24/7 " ,La Pantera Rosa
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3375
+#EXTINF:-1 tvg-id="" tvg-name="La Rosa de Guadalupe" tvg-logo="http://51.222.152.107:81/posters/1610693680481.jpg" group-title="24/7 "La rosa de guadalupe
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3376
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="http://51.222.152.107:81/posters/1502753896528.jpg" group-title="MÉXICO ",Las Estrellas
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3100
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="http://51.222.152.107:81/posters/1502754703493.jpg" group-title="MÉXICO ",Las Estrellas
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3150
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://51.222.152.107:81/posters/1502753921213.jpg" group-title="CINE ",Lifetime
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3101
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://51.222.152.107:81/posters/1502828244268.jpg" group-title="CINE ",Lifetime
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3179
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra" tvg-logo="http://51.222.152.107:81/posters/1610693701165.jpg" group-title="24/7 ", Los Picapiedra
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3377
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos" tvg-logo="http://51.222.152.107:81/posters/1610693720422.jpg" group-title="24/7 ", Los Pitufos
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3342
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson" tvg-logo="http://51.222.152.107:81/posters/1610693752246.jpg" group-title="24/7 ", los Simpsons
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3331
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm el de enmedio" tvg-logo="http://51.222.152.107:81/posters/1610693772466.jpg" group-title="24/7 Malcolm el de medio
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3332
+#EXTINF:-1 tvg-id="" tvg-name="Maria Visión" tvg-logo="http://51.222.152.107:81/posters/1620123481131.jpg" group-title="ENTRETENIMIENTO ",María Visión
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3322
+#EXTINF:-1 tvg-id="" tvg-name="Más chic" tvg-logo="http://51.222.152.107:81/posters/1502753937532.jpg" group-title="CINE ",Más chic
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3102
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="http://51.222.152.107:81/posters/1502828258319.jpg" group-title="CINE ",Mas Chic
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3180
+#EXTINF:-1 tvg-id="" tvg-name="Mazinger Z" tvg-logo="http://51.222.152.107:81/posters/1610693797311.jpg" group-title="24/7 ", mazinger-z
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3333
+#EXTINF:-1 tvg-id="" tvg-name="Milenio" tvg-logo="http://51.222.152.107:81/posters/1502753948468.jpg" group-title="MÉXICO ",Milenio
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3103
+#EXTINF:-1 tvg-id="" tvg-name="Milenio" tvg-logo="http://51.222.152.107:81/posters/1502830423165.jpg" group-title="MÉXICO ",Milenio
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3328
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="http://51.222.152.107:81/posters/1570030425453.jpg" group-title="DEPORTES ",Movistar Deportes
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3223
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 2" tvg-logo="http://51.222.152.107:81/posters/1502828900178.jpg" group-title="DEPORTES ",Movistar Deportes 2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3224
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-logo="http://51.222.152.107:81/posters/1570030478467.jpg" group-title="DEPORTES ",Movistar F1
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3225
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 TV" tvg-logo="http://51.222.152.107:81/posters/1508822937315.jpg" group-title="DEPORTES ",Movistar Televisión de F1
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3209
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf" tvg-logo="http://51.222.152.107:81/posters/1508822722574.jpg" group-title="DEPORTES ",Movistar Golf
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3210
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf" tvg-logo="http://51.222.152.107:81/posters/1570030506172.jpg" group-title="DEPORTES ",Movistar Golf
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3226
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones" tvg-logo="http://51.222.152.107:81/posters/1570030400370.jpg" group-title="DEPORTES ", movistar liga de campeones
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3227
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="http://51.222.152.107:81/posters/1610693822285.jpg" group-title="24/7 " ,Sres. Frijol
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3334
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://51.222.152.107:81/posters/1502753958148.jpg" group-title="MÚSICA ",MTV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3104
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="http://51.222.152.107:81/posters/1502754842434.jpg" group-title="MUSICA ",MTV Hits
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3105
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="http://51.222.152.107:81/posters/1502753995393.jpg" group-title="MUSICA ",MTV Live
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3106
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios MTY" tvg-logo="http://51.222.152.107:81/posters/1527121177168.jpg" group-title="MÉXICO ",Multimedios MTY
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3152
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Plus" tvg-logo="http://51.222.152.107:81/posters/1502754060314.jpg" group-title="MÉXICO ",Multimedios Plus
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3107
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Plus" tvg-logo="http://51.222.152.107:81/posters/1502754738207.jpg" group-title="MÉXICO ",Multimedios Plus
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3151
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="http://51.222.152.107:81/posters/1610693846201.jpg" group-title="24/7 ",Naruto
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3335
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="http://51.222.152.107:81/posters/1502754070170.jpg" group-title="CULTURALES ",NatGeo
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3108
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo KIDS" tvg-logo="" group-title="INFANTILES ",NatGeo KIDS
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3109
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="http://51.222.152.107:81/posters/1502754081404.jpg" group-title="CULTURALES ",NatGeo Wild
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3110
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="http://51.222.152.107:81/posters/1508821010576.jpg" group-title="DEPORTES ",NFL Network
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3211
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 (TeenNick)" tvg-logo="" group-title="INFANTILES ",Nick 2 (TeenNick)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3112
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR" tvg-logo="http://51.222.152.107:81/posters/1502754098215.jpg" group-title="INFANTILES ",Nick JR
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3113
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://51.222.152.107:81/posters/1502754090498.jpg" group-title="INFANTILES ",Nickelodeon
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3111
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="http://51.222.152.107:81/posters/1502754110427.jpg" group-title="INFANTILES ",Nicktoons
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3114
+#EXTINF:-1 tvg-id="" tvg-name="Canal Exterior" tvg-logo="" group-title="DEPORTES",Canal Exterior
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3115
+#EXTINF:-1 tvg-id="" tvg-name="Canal Aire Libre" tvg-logo="http://51.222.152.107:81/posters/1502828924200.jpg" group-title="DEPORTES",Canal Aire Libre
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3212
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el Patrón del Mal" tvg-logo="http://51.222.152.107:81/posters/1610693874475.jpg" group-title=" 24/7", Pablo Escobar, el Patrón del Mal
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3336
+#EXTINF:-1 tvg-id="" tvg-name="Canal Paramount" tvg-logo="http://51.222.152.107:81/posters/1530591231314.jpg" group-title="CINE ",Canal Paramount
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3116
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="http://51.222.152.107:81/posters/1527223202501.jpg" group-title="ENTRETENIMIENTO ",Pasiones
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3181
+#EXTINF:-1 tvg-id="" tvg-name="Pinky y Cerebro" tvg-logo="http://51.222.152.107:81/posters/1610693894561.jpg" group-title="24/7 " ,Pinky y Cerebro
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3337
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon" tvg-logo="http://51.222.152.107:81/posters/1610693920555.jpg" group-title="24/7 " ,Pokémon
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3338
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="http://51.222.152.107:81/posters/1502828302331.jpg" group-title="ENTRETENIMIENTO ",RCN
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3182
+#EXTINF:-1 tvg-id="" tvg-name="RCN Nuestra Tele Internacional" tvg-logo="" group-title="ENTRETENIMIENTO ",RCN Nuestra Tele Internacional
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3156
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="http://51.222.152.107:81/posters/1502828949235.jpg" group-title="DEPORTES",Real televisión madrileña
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3228
+#EXTINF:-1 tvg-id="" tvg-name="Sailor Moon" tvg-logo="http://51.222.152.107:81/posters/1610693941265.jpg" group-title="24/7 ", Marinero de la luna
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3339
+#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7 ", Scooby Doo
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3340
+#EXTINF:-1 tvg-id="" tvg-name="SEC ESPN Network" tvg-logo="http://51.222.152.107:81/posters/1530598422296.jpg" group-title="DEPORTES ",SEC Red ESPN
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3213
+#EXTINF:-1 tvg-id="" tvg-name="Shark Tank México Temporada 1" tvg-logo="http://51.222.152.107:81/posters/1610693983199.jpg" group-title=" 24/7 ",Shark Tank México Temporada 1
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3341
+#EXTINF:-1 tvg-id="" tvg-name="Shark Tank México Temporada 2" tvg-logo="http://51.222.152.107:81/posters/1610694005289.jpg" group-title=" 24/7 ",Shark Tank México Temporada 2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3330
+#EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="http://51.222.152.107:81/posters/1610694028214.jpg" group-title="24/7 ",Smallville
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3343
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="http://51.222.152.107:81/posters/1502754145178.jpg" group-title="CINE ",Sony
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3118
+#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="http://51.222.152.107:81/posters/1610694050515.jpg" group-title="24/7 ", parque del Sur
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3344
+#EXTINF:-1 tvg-id="" tvg-name="Espacio" tvg-logo="http://51.222.152.107:81/posters/1502754169326.jpg" group-title="CINE ",Espacio
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3119
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman" tvg-logo="http://51.222.152.107:81/posters/1610694070241.jpg" group-title="24/7 ",Spiderman
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3345
+#EXTINF:-1 tvg-id="" tvg-name="Star Classics (Fox Premium Classics)" tvg-logo="http://51.222.152.107:81/posters/1502753643537.jpg" group-title=" CINE ",Star Classics (Fox Premium Classics)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3075
+#EXTINF:-1 tvg-id="" tvg-name="Cosas extrañas" tvg-logo="http://51.222.152.107:81/posters/1610694093497.jpg" group-title="24/7 ", Cosas extrañas
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3346
+#EXTINF:-1 tvg-id="" tvg-name="Estudio Universal" tvg-logo="http://51.222.152.107:81/posters/1502829861361.jpg" group-title="CINE ",Estudio Universal
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3307
+#EXTINF:-1 tvg-id="" tvg-name="Sudamerica - DirecTV Sports" tvg-logo="" group-title="DEPORTES ",Sudamerica - DirecTV Sports
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3246
+#EXTINF:-1 tvg-id="" tvg-name="Sudamerica - DirecTV Sports +" tvg-logo="" group-title="DEPORTES ",Sudamerica - DirecTV Sports +
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3248
+#EXTINF:-1 tvg-id="" tvg-name="Sudamerica - DirecTV Sports 2" tvg-logo="" group-title="DEPORTES ",Sudamerica - DirecTV Sports 2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3247
+#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel" tvg-logo="http://51.222.152.107:81/posters/1530596052274.jpg" group-title="CINE ",Sundance Channel
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3121
+#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel" tvg-logo="http://51.222.152.107:81/posters/1493248891520.jpg" group-title="CINE ",Sundance Channel
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3308
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="http://51.222.152.107:81/posters/1502754236483.jpg" group-title="CINE ",SyFy
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3122
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="http://51.222.152.107:81/posters/1502829872259.jpg" group-title="CINE ",SyFy
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3309
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://51.222.152.107:81/posters/1502754245404.jpg" group-title="CINE ",TBS
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3123
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://51.222.152.107:81/posters/1502828327589.jpg" group-title="CINE ",TBS
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3184
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://51.222.152.107:81/posters/1502754255428.jpg" group-title="CINE ",TCM
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3124
+#EXTINF:-1 tvg-id="" tvg-name="Teleformula" tvg-logo="http://51.222.152.107:81/posters/1502754264274.jpg" group-title="MEXICO ",Teleformula
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3125
+#EXTINF:-1 tvg-id="" tvg-name="Teleformula" tvg-logo="http://51.222.152.107:81/posters/1502754769436.jpg" group-title="MEXICO ",Teleformula
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3153
+#EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-logo="http://51.222.152.107:81/posters/1502754274472.jpg" group-title="MUSICA ",Telehit
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3126
+#EXTINF:-1 tvg-id="" tvg-name="Telehit Urbano (Telehit Musica)" tvg-logo="http://51.222.152.107:81/posters/1502754130503.jpg" group-title="MUSICA ",Telehit Urbano (Telehit Música)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3117
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional" tvg-logo="http://51.222.152.107:81/posters/1502754283527.jpg" group-title="ENTRETENIMIENTO ",Telemundo Internacional
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3127
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional" tvg-logo="http://51.222.152.107:81/posters/1502828341237.jpg" group-title="ENTRETENIMIENTO ",Telemundo Internacional
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3185
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Monterrey" tvg-logo="" group-title="MEXICO ",Televisa Monterrey
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3128
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Monterrey" tvg-logo="" group-title="MEXICO ",Televisa Monterrey
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3154
+#EXTINF:-1 tvg-id="" tvg-name="Los muertos vivientes" tvg-logo="http://51.222.152.107:81/posters/1610694115527.jpg" group-title="24/7 " ,Los muertos vivientes
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3347
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats" tvg-logo="http://51.222.152.107:81/posters/1610694138471.jpg" group-title="24/7 ",Thundercats
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3348
+#EXTINF:-1 tvg-id="" tvg-name="Tlnovelas" tvg-logo="http://51.222.152.107:81/posters/1502754306306.jpg" group-title="MEXICO ",Tlnovelas
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3129
+#EXTINF:-1 tvg-id="" tvg-name="Tlnovelas" tvg-logo="http://51.222.152.107:81/posters/1502828366290.jpg" group-title="MEXICO ",Tlnovelas
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3186
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://51.222.152.107:81/posters/1502754332530.jpg" group-title="CINE ",TNT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3130
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://51.222.152.107:81/posters/1502829917358.jpg" group-title="CINE ",TNT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3311
+#EXTINF:-1 tvg-id="" tvg-name="Serie TNT" tvg-logo="http://51.222.152.107:81/posters/1502754343528.jpg" group-title="CINE ",Serie TNT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3131
+#EXTINF:-1 tvg-id="" tvg-name="Serie TNT" tvg-logo="http://51.222.152.107:81/posters/1502828379582.jpg" group-title="CINE ",Serie TNT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3187
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7 " ,Tom y Jerry
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3349
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="http://51.222.152.107:81/posters/1502754353314.jpg" group-title="INFANTILES ",Tooncast
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3132
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="http://51.222.152.107:81/posters/1502829416567.jpg" group-title="INFANTILES ",Tooncast
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3277
+#EXTINF:-1 tvg-id="" tvg-name="Toros TV" tvg-logo="http://51.222.152.107:81/posters/1570030537196.jpg" group-title="DEPORTES ",Toros TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3229
+#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="http://51.222.152.107:81/posters/1502754362141.jpg" group-title="CINE ",TruTV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3133
+#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="http://51.222.152.107:81/posters/1502828392397.jpg" group-title="CINE ",TruTV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3188
+#EXTINF:-1 tvg-id="" tvg-name="TUDN MX" tvg-logo="http://51.222.152.107:81/posters/1563753178407.jpg" group-title="DEPORTES ",TUDN MX
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3214
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="http://51.222.152.107:81/posters/1563753621308.jpg" group-title="DEPORTES ",TUDN USA
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3215
+#EXTINF:-1 tvg-id="" tvg-name="TVC" tvg-logo="http://51.222.152.107:81/posters/1530596686135.jpg" group-title="CONTENIDO COMPLETO",TVC
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3155
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="" group-title="DEPORTES ",TVC Deportes
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3134
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="http://51.222.152.107:81/posters/1502829015276.jpg" group-title="DEPORTES ",TVC Deportes
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3216
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="http://51.222.152.107:81/posters/1502409146144.jpg" group-title="ENTRETENIMIENTO ",TVE
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3135
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="http://51.222.152.107:81/posters/1493243990583.jpg" group-title="DEPORTES ",TyC Sports
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3217
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="http://51.222.152.107:81/posters/1561830268485.jpg" group-title="DEPORTES ",UFC Pase de lucha
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3218
+#EXTINF:-1 tvg-id="" tvg-name="Una Familia de 10" tvg-logo="http://51.222.152.107:81/posters/1610694177479.jpg" group-title="24/7 ", Una Familia de 10
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3350
+#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="http://51.222.152.107:81/posters/1502754375168.jpg" group-title="MÉXICO ",Unicable
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3136
+#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="http://51.222.152.107:81/posters/1502828403504.jpg" group-title="ENTRETENIMIENTO ",Unicable
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3189
+#EXTINF:-1 tvg-id="" tvg-name="Canal Universal" tvg-logo="http://51.222.152.107:81/posters/1530594935541.jpg" group-title="CINE ",Canal Universal
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3137
+#EXTINF:-1 tvg-id="" tvg-name="Canal Universal" tvg-logo="http://51.222.152.107:81/posters/1502829931159.jpg" group-title="CINE ",Canal Universal
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3312
+#EXTINF:-1 tvg-id="" tvg-name="Univision 41" tvg-logo="http://51.222.152.107:81/posters/1502828414396.jpg" group-title="ENTRETENIMIENTO ",Univision 41
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3190
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://51.222.152.107:81/posters/1502754453409.jpg" group-title="MUSICA ",VH1
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3138
+#EXTINF:-1 tvg-id="" tvg-name="Clásicos VH1" tvg-logo="http://51.222.152.107:81/posters/1502754481403.jpg" group-title="MÚSICA ",Clásicos VH1
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3139
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="http://51.222.152.107:81/posters/1530591750450.jpg" group-title="CINE ",Warner
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3140
+#EXTINF:-1 tvg-id="" tvg-name="WinSports" tvg-logo="http://51.222.152.107:81/posters/1527223825150.jpg" group-title="DEPORTES ",WinSports
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3219
+#EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="http://51.222.152.107:81/posters/1610694215511.jpg" group-title="24/7 " ,X Men
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3351
+#EXTINF:-1 tvg-id="" tvg-name="[HD:] CULTURA - DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ 2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURALES ",[HD:] CULTURA - DISCOVERY THEATER
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3474
+#EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES - ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="DEPORTES ",[HD:] DEPORTES - ESPN 1
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3437
+#EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES - BEIN SPORT" tvg-logo="" group-title="FULL CONTENIDO",[HD:] DEPORTES - BEIN SPORT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3543
+#EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES - ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES ",[HD:] DEPORTES - ESPN 2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3439
+#EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES - ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015. PNG" group-title="DEPORTES",[HD:] DEPORTES - ESPN EXTRA
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3438
+#EXTINF:-1 tvg-id="" tvg-name="[HD:] ENTRE - UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo .svg/1200px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",[HD:] ENTRE - UNICABLE
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3464
+#EXTINF:-1 tvg-id="" tvg-name="[HD:] ENTRETE - ANTENA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="ENTRETENIMIENTO",[HD:] ENTRETE - ANTENA 3
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3478
+#EXTINF:-1 tvg-id="" tvg-name="[HD:] MÉXICO - MULTIMEDIOS MTY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television. png" group-title="MEXICO ",[HD:] MEXICO - MULTIMEDIOS MTY
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3440
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Amc_theatres_logo .svg/1200px-Amc_theatres_logo.svg.png" group-title="CINE ",[SD:] CINE - AMC
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3443
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - CINE LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo. png" group-title="CINE ",[SD:] CINE - CINE LATINO
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3447
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png " group-title="CINE ",[SD:] CINE - CINECANAL
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3445
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_ %28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="CINE ",[SD:] CINE - CINEMAX
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3444
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - FOX ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="CINE ",[SD:] CINE - FOX ACCION
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3453
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - FOX CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Cinema_HD. png" group-title="CINE ",[SD:] CINE - FOX CINEMA
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3454
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - FOX FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ Star_Fun_2020.svg/2215px-Star_Fun_2020.svg.png" group-title="CINE ",[SD:] CINE - FOX FAMILY
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3412
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - FOX FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/FOX_Family_HD. png" group-title="CINE ",[SD:] CINE - FOX FAMILY
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3456
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/ Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="CINE ",[SD:] CINE - FOX MOVIES
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3457
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - FOX SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Series_HD. png" group-title="CINE ",[SD:] CINE - SERIE FOX
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3458
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - GOLDEN PREMIER" tvg-logo="https://i.ibb.co/0rBBVV9/Sin-t-tulo-1. png" group-title="CINE ",[SD:] CINE - PREMIER DE ORO
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3452
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - HBO 1" tvg-logo="https://i.ibb.co/VBzKGK3/Sin-t-tulo-1. png" group-title="CINE ",[SD:] CINE - HBO 1
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3459
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo. png" group-title="CINE ",[SD:] CINE - HBO 2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3410
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ HBO_Family.svg/1651px-HBO_Family.svg.png" group-title="CINE ",[SD:] CINE - HBO FAMILY
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3411
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - HBO Plus" tvg-logo="https://i.ibb.co/mCtBKcV/Sin-t-tulo-1. png" group-title="CINE ",[SD:] CINE - HBO Plus
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3460
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ HBO_Xtreme.svg/1894px-HBO_Xtreme.svg.png" group-title="CINE ",[SD:] CINE - HBO XTREME
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3413
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - MC" tvg-logo="https://i.ibb.co/488gdKy/Sin-t-tulo-1.png " group-title="CINE ",[SD:] CINE - MC
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3467
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - MULTICINEMA" tvg-logo="" group-title="FULL CONTENIDO",[SD:] CINE - MULTICINEMA
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3547
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo .svg/1200px-Multipremier_logo.svg.png" group-title="CINE ",[SD:] CINE - MULTIPREMIER
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3468
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - PARAMOOUNT" tvg-logo="https://i.ibb.co/TvmFx17/Sin-t-tulo-1.png " group-title="CINE ",[SD:] CINE - PARAMOOUNT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3449
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016 .svg/1280px-TNT_Logo_2016.svg.png" group-title="CINE ",[SD:] CINE - TNT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3409
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE -FOX CLASSICS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/FOX_Classics_HD. png" group-title="CINE ",[SD:] CINE -FOX CLÁSICOS
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3455
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE -SPACE MX" tvg-logo="http://2.bp.blogspot.com/-GZgmMHQIHwY/VMfsbRE0NwI/AAAAAAAAABc/QwN2othWi7A /s1600/space%2Ben%2Bvivo%2Bonline.PNG" group-title="CINE ",[SD:] CINE -ESPACIO MX
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3419
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - PLANETA ANIMAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ 2018_Animal_Planet_logo.svg/2181px-2018_Animal_Planet_logo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - ANIMAL PLANET
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3397
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ 2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - DISCOVERY CHANNEL
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3396
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H% 26H.png" group-title="CULTURALES ",[SD:] CULTURA - DESCUBRIMIENTO H&H
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3471
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - ID DE DESCUBRIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/ InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="CULTURALES ",[SD:] CULTURA - DISCOVERY ID
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3472
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ TLC_Logo.svg/300px-TLC_Logo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - DESCUBRIMIENTO TLC
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3473
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - DISCOVERY TURBO
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3470
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png " group-title="CULTURALES ",[SD:] CULTURA - H2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3475
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - CANAL DE HISTORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ History_Logo.svg/1220px-History_Logo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - HISTORY CHANNEL
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3394
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - NATGEO WILD" tvg-logo="" group-title="FULL CONTENIDO",[SD:] CULTURA - NATGEO WILD
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3548
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - NATIONAL GEOGRAPHIC
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3395
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - NET GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/ Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - NET GEO
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3418
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - BEIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo. png" group-title="DEPORTES ",[SD:] DEPORTES - BEIN SPORT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3480
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - CLARO SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - CLARO SPORT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3407
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark .svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - ESPN
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3406
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - ESPN 2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3405
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - ESPN 3
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3404
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/ Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - ESPN DEPORTES
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3417
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - FOX SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98 /Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - FOX SPORT 1
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3482
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - FOX SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d /2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - FOX SPORT 2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3483
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - FOX SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9 /Fox_sports_3_log o.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - FOX SPORT 3
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3436
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - MLB" tvg-logo="https://i.ibb.co/VLG8mSm/Sin-t-tulo-1.png " group-title="DEPORTES ",[SD:] DEPORTES - MLB
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3433
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NBA_script .svg/1920px-NBA_script.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - NBA
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3434
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRE - AZ MUNDO" tvg-logo="https://i.ibb.co/x1k1WKh/Sin-t-tulo-1. png" group-title="ENTRETENIMIENTO",[SD:] ENTRE - AZ MUNDO
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3462
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRE - GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013 .svg/1200px-Galavision_Logo_2013.svg.png" group-title="ENTRETENIMIENTO",[SD:] ENTRE - GALAVISION
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3466
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRE - LIFETIME" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66 /4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="ENTRETENIMIENTO ",[SD:] ENTRE - DE POR VIDA
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3463
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRE - TELENOVELA PR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="ENTRETENIMIENTO",[SD:] ENTRE - TELENOVELA PR
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3469
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRE - UNIMAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM %C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",[SD:] ENTRE - UNIMAS
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3465
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRET- CINE DE ARTE" tvg-logo="" group-title="ENTRETENIMIENTO ",[SD:] ENTRET- CINE DE ARTE
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3546
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - ATRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo .svg/1200px-Atreseries_2020_logo.svg.png" group-title="ENTRETENIMIENTO",[SD:] ENTRETE - ATRES
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3428
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - AZ CINEMA" tvg-logo="" group-title="FULL CONTENIDO",[SD:] ENTRETE - AZ CINEMA
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3545
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO",[SD:] ENTRETE - COMEDY CENTRAL
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3393
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/398px-E%21_Logo_2012.svg.png" group-title="ENTRETENIMIENTO",[ SD:] ENTRETE - E!
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3392
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - HOLA TV" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/ uploads/hola-concurso.png" group-title="ENTRETENIMIENTO",[SD:] ENTRETE - HOLA TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3408
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - ISAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I .Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="ENTRETENIMIENTO",[SD:] ENTRETE - ISAT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3448
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - COMIENZA LA VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo. PNG" group-title="ENTRETENIMIENTO",[SD:] ENTRETE - EMPIEZA LA VIDA
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3450
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019 .svg/1200px-Logo_Univision_2019.svg.png" group-title="ENTRETENIMIENTO",[SD:] ENTRETE - UNIVISION
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3379
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE -PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo .svg/1200px-Pasiones_Tv_logo.svg.png" group-title="ENTRETENIMIENTO",[SD:] ENTRETE -PASIONES
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3451
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] KIDS - BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv. png" group-title="INFANTILES ",[SD:] NIÑOS - BEBES TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3414
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] NIÑOS - BOORMERANG MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/ Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTILES ",[SD:] NIÑOS - BOORMERANG MX
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3415
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] NIÑOS - DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ Discovery_Kids_Logo_2021-Presente.webp/267px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTILES ",[SD:] NIÑOS - DISCOVERY KIDS
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3399
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] NIÑOS - DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ 2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES ",[SD:] NIÑOS - DISNEY CHANNEL
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3403
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] NIÑOS - DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr. _logo.png" group-title="INFANTILES ",[SD:] NIÑOS - DISNEY JUNIOR
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3400
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] NIÑOS - DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ Disney_XD_-_2015.svg/1966px-Disney_XD_-_2015.svg.png" group-title="INFANTILES ",[SD:] NIÑOS - DISNEY XD
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3402
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] NIÑOS - NET GEO NIÑOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54 /Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTILES ",[SD:] NIÑOS - NET GEO KIDS
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3416
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] NIÑOS - NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES ",[SD:] NIÑOS - NICK JR
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3398
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] NIÑOS - NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo .svg/2560px-Nickelodeon_2009_logo.svg.png" group-title="INFANTILES ",[SD:] NIÑOS - NICKELODEON
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3401
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] MÉXICO - AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/ Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO ",[SD:] MEXICO - AZTECA 7
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3429
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] MÉXICO - AZTECA UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/ Logotipo_de_TV_Azteca.png/1200px-Logotipo_de_TV_Azteca.png" group-title="MEXICO ",[SD:] MEXICO - AZTECA UNO
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3461
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] MÉXICO - CANAL 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ Logo_XEIMT-TV.svg/1200px-Logo_XEIMT-TV.svg.png" group-title="MEXICO ",[SD:] MEXICO - CANAL 22
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3431
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] MÉXICO - CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO ",[SD:] MEXICO - CANAL 5
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3476
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] MÉXICO - IMAGEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3 %B3n_2016.png" group-title="MEXICO ",[SD:] MEXICO - IMAGEN
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3430
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] MÉXICO - LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO ",[SD:] MEXICO - LAS ESTRELLAS
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3477
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] MEXICO - ONCE TV MX" tvg-logo="http://historiamediosdecomunicacionjeho.weebly.com/uploads/2/0/9/1 /20915528/1370538728.png" group-title="MEXICO ",[SD:] MEXICO - ONCE TV MX
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3432
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] MUSICA - MTV" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/mtv -logo.png" group-title="MUSICA ",[SD:] MUSICA - MTV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3421
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] MÚSICA - VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew .svg/1200px-VH1_logonew.svg.png" group-title="MÚSICA",[SD:] MÚSICA - VH1
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3422
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] MÚSICA -MTV HITLIST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="MUSICA ",[SD:] MUSICA -MTV HITLIST
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3420
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] MUSICA -VIDEO ROLA" tvg-logo="https://iconape.com/wp-content/files/bv/363063/png/ 363063.png" group-title="MUSICA ",[SD:] MUSICA -VIDEO ROLA
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3423
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] NOTICIA - CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa %C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="MEXICO",[SD:] NOTICIA - CNN
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3427
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] NOTICIA - DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012 .svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="MEXICO",[SD:] NOTICIA - DW
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3442
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] NOTICIA - EL FINANCIERO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/ 61pEl3wRknL.png" group-title="MEXICO ",[SD:] NOTICIA - EL FINANCIERO
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3441
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] SERIE - A&E LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="SERIE ",[SD:] SERIE - A&E LATINO
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3382
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] SERIE - AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_ %282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="SERIE ",[SD:] SERIE - AXN
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3386
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] SERIE - CANAL FOX" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1. png" group-title="SERIE ",[SD:] SERIE - CANAL FOX
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3380
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] SERIE - FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/ Fox_life_logo.svg/2560px-Fox_life_logo.svg.png" group-title="SERIE ",[SD:] SERIE - FOX LIFE
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3383
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] SERIE - FX" tvg-logo="https://i.ibb.co/6sg7VMK/Sin-t-tulo-1.png " group-title="SERIE ",[SD:] SERIE - FX
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3381
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] SERIE - SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sony_Pictures_Television_logo .svg/722px-Sony_Pictures_Television_logo.svg.png" group-title="SERIE ",[SD:] SERIE - SONY
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3389
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] SERIE - STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016. png" group-title="SERIE ",[SD:] SERIE - ESTUDIO UNIVERSAL
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3390
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] SERIE - SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY .svg/2560px-SYFY.svg.png" group-title="SERIE ",[SD:] SERIE - SYFY
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3385
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] SERIE - TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016 .svg/2375px-TBS_logo_2016.svg.png" group-title="SERIE ",[SD:] SERIE - TBS
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3384
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] SERIE - TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016. png" group-title="SERIE ",[SD:] SERIE - SERIE TNT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3391
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] SERIE - UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo .svg/2418px-Universal_Pictures_logo.svg.png" group-title="SERIE ",[SD:] SERIE - UNIVERSAL
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3387
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] SERIE - Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png " group-title="SERIE ",[SD:] SERIE - Warner
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3388
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] SERIE -FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo .svg/1200px-FX_Movies_logo.svg.png" group-title="SERIE",[SD:] SERIE -FXM
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3446
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] EE. UU. - BRAVO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="USA ",[SD:] USA - BRAVO TV
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3426
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] EE. UU. - NBCSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012 .svg/1200px-NBC_Sports_2012.svg.png" group-title="EE.UU. ",[SD:] EE.UU. - NBCSN
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3481
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] EE. UU. - UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black .png/1200px-UNIVERSO_LOGO_color_black.png" group-title="EE.UU. ",[SD:] EE.UU. - UNIVERSO
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3479
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] EE. UU. -DISCOVERY FAMILY" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/ 4/47/1200px-Discovery_Family_logo.svg.png" group-title="USA ",[SD:] USA -DISCOVERY FAMILY
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3425
+#EXTINF:-1 tvg-id="" tvg-name="[SD:] EE. UU. -FOODN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png " group-title="USA ",[SD:] USA -FOODN
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3424
+#EXTINF:-1 tvg-id="" tvg-name="[SD:]MUSICA - TELEHIT" tvg-logo="" group-title="FULL CONTENIDO",[SD:]MUSICA - TELEHIT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3544
